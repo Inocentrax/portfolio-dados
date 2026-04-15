@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Robert
 
-🎯 Analista de Dados em construção, focado em transformar dados em decisões.
+🎯 Analista de Dados focado em transformar dados em decisões.
 
 ---
 
