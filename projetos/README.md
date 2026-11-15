@@ -7,6 +7,8 @@
 - [Classificação de dígitos](../projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/): execução e resultados verificados em 15/11/2026.
 - [Anúncios de aluguel](../projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/): execução e resultados verificados em 15/11/2026.
 
+- [Vendas de videogames](../projetos/vendas-videogames/analise-games-1y8onn/): análise de plataformas, editoras, títulos e regiões.
+
 ## Em andamento
 
 - [bacen selic 2023](../projetos/coleta-dados-bacen/bacen-selic-2023-11k0ur/): Explicar série, unidade e intervalo (o nome sugere 2023 inteiro, mas a consulta é apenas janeiro); parametrizar datas, tratar falha HTTP e timeout, substituir caminho /content e tornar a gravação repetível (modo xb falha se o arquivo já existir). Acrescentar análise simples ou apresentá-lo como projeto de coleta.

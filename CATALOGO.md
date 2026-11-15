@@ -4,12 +4,13 @@
 
 O status de cada entrada informa o estágio real do trabalho.
 
-## Demonstrações concluídas e verificadas (2)
+## Demonstrações concluídas e verificadas (3)
 
 | Conteúdo | Status | Próximo passo |
 |---|---|---|
 | [Classificação de dígitos — logística e MLP](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/) | Concluído | Evolução opcional: avaliar estabilidade por sementes, validação cruzada e imagens externas |
 | [Anúncios de aluguel — análise exploratória](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Concluído | Evolução opcional: controlar área e quartos e documentar o período se disponível na fonte |
+| [Vendas de videogames — plataformas e regiões](projetos/vendas-videogames/analise-games-1y8onn/) | Concluído | Evolução opcional: comparar cobertura histórica e investigar títulos homônimos e diferenças regionais |
 
 ## Projetos em andamento (10)
 
@@ -26,14 +27,13 @@ O status de cada entrada informa o estágio real do trabalho.
 | [APRIORI](projetos/ideb-regiao-norte/apriori-1hg841/) | Em andamento | Candidata a fonte junto do Trabalho Não Supervisionado |
 | [desafio ciia](projetos/classificacao-tweets/desafio-ciia-1q-jic/) | Em andamento | Criar validação estratificada antes de ajustar TF-IDF, reportar F1 e matriz de confusão fora do treino |
 
-## Rascunhos e ideias (7)
+## Rascunhos e ideias (6)
 
 | Conteúdo | Status | Próximo passo |
 |---|---|---|
 | [Ideia de fluxo de processamento de linguagem](em-andamento/arquivo-revisao/ideia-de-fluxo-de-processamento-de-linguagem-18fstx/) | Rascunho | Transformar em nota de arquitetura com objetivo e escopo ou manter como ideia |
 | [Projeto Cursos de Graduação](em-andamento/cursos-graduacao/projeto-cursos-de-graduacao-1ftx7d/) | Rascunho | Localizar CSV e data de extração, formular pergunta geográfica adequada a categorias, criar agregações/gráficos por UF e concluir antes de promover a projeto |
 | [Analise alunos](em-andamento/desempenho-alunos/analise-alunos-1jgyrf/) | Rascunho | Localizar ou criar dados sintéticos, restringir replace à coluna Notas, definir escala/regra de bônus e aprovação, corrigir import de pyplot e substituir todas as conclusões de exemplo por cálculos |
-| [Analise Games](em-andamento/vendas-videogames/analise-games-1y8onn/) | Rascunho | Localizar CSV, concluir vendas por plataforma/editora/ano e corrigir justificativa: 271/16598 é cerca de 1,63%, não menos de 1% |
 | [Índice de preços ao produtor — preparação dos dados](em-andamento/ipp-ibge/indice-de-precos-ao-produtor-preparacao-dos-dados-1gw0aw/) | Rascunho | Localizar JSON e fonte/tabela/período, tratar códigos vazios e marcadores de ausência antes de conversão |
 | [Solos da Amazônia — exploração inicial](em-andamento/solos-amazonia/solos-da-amazonia-exploracao-inicial-1vzus2/) | Rascunho | Definir pergunta espacial, recuperar origem/versão/CRS dos dados, validar dicionário contra colunas reais e concluir exploração antes de propor modelo |
 | [Atividade 1 Jairo AP SUPERVISIONADO](em-andamento/indicadores-diabetes/atividade-1-jairo-ap-supervisionado-1qdrbp/) | Rascunho | Rever remoção de valores válidos nas colunas de dias |

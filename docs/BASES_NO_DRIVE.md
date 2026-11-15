@@ -68,10 +68,17 @@ ZIP localizado com o nome BRFSS2015 esperado. O CSV interno e sua versão ainda 
 |---|---|---:|
 | [diabetes_012_health_indicators_BRFSS2015.zip](https://drive.google.com/file/d/1M8RjttPmuEEYh2xR1C7CO8V6l5DISW8d/view) | pastas do meu desktop-não irei jogar fora | 2.07 MB |
 
+## Vendas de videogames — arquivo enviado posteriormente
+
+vgsales.csv foi localizado na raiz do Drive e conferido com Analise_Games.ipynb: 16.598 linhas, 11 colunas, 31 plataformas e MD5 igual ao registro arquivado da coleção VGSales.
+
+[Arquivo no Drive](https://drive.google.com/file/d/1_AzIsBoF05i8-Kxxiwvssnu5O9_PB31e/view) · [Projeto concluído](../projetos/vendas-videogames/analise-games-1y8onn/).
+
+Ele não contém os campos de preços, avaliações ou jogadores simultâneos esperados pelo outro notebook de Steam. Os dois projetos permanecem separados.
+
 ## Ainda não localizados nas pastas verificadas
 
 - Steam: steam_games_dataset.csv.
-- Vendas de videogames: vgsales.csv.
 - Cursos de graduação: PDA_Dados_Cursos_Graduacao_Brasil.csv.
 - Restaurante: serenatto_2sem_2023.csv.
 - Atividade IoT da sala: sensores_sala.csv, indicado no material como disponível no AVA.

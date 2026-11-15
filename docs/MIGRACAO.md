@@ -6,7 +6,7 @@ Organização realizada em 15/11/2026. As pastas antigas foram substituídas por
 
 | Caminho anterior | Destino | Comparação das fontes |
 |---|---|---|
-| [Estudos/Analise_Games.ipynb](https://github.com/Inocentrax/portfolio-dados/blob/ab8f610dd9adabcc1c11a0ecdad23fbb9bef53f2/Estudos/Analise_Games.ipynb) | [Abrir](../em-andamento/vendas-videogames/analise-games-1y8onn/) | Mesmo código e texto da fonte consolidada |
+| [Estudos/Analise_Games.ipynb](https://github.com/Inocentrax/portfolio-dados/blob/ab8f610dd9adabcc1c11a0ecdad23fbb9bef53f2/Estudos/Analise_Games.ipynb) | [Abrir](../projetos/vendas-videogames/analise-games-1y8onn/) | Mesmo código e texto da fonte consolidada |
 | [Estudos/Atividade 1 Jairo AP SUPERVISIONADO.ipynb](https://github.com/Inocentrax/portfolio-dados/blob/ab8f610dd9adabcc1c11a0ecdad23fbb9bef53f2/Estudos/Atividade%201%20Jairo%20AP%20SUPERVISIONADO.ipynb) | [Abrir](../em-andamento/indicadores-diabetes/atividade-1-jairo-ap-supervisionado-1qdrbp/) | Mesmo código e texto da fonte consolidada |
 | [Estudos/Atividade 2 - Robert de Jesus.ipynb](https://github.com/Inocentrax/portfolio-dados/blob/ab8f610dd9adabcc1c11a0ecdad23fbb9bef53f2/Estudos/Atividade%202%20-%20Robert%20de%20Jesus.ipynb) | [Abrir](../estudos/fundamentos-pln/atividade-2-robert-de-jesus-1q-9fe/) | Mesmo código e texto da fonte consolidada |
 | [Estudos/Atividade Mineração de Texto Robert.ipynb](https://github.com/Inocentrax/portfolio-dados/blob/ab8f610dd9adabcc1c11a0ecdad23fbb9bef53f2/Estudos/Atividade%20Minera%C3%A7%C3%A3o%20de%20Texto%20Robert.ipynb) | [Abrir](../arquivo/versoes/arquivo-revisao/atividade-mineracao-de-texto-robert-1hjdz5/) | Mesmo código e texto da fonte consolidada |

@@ -9,6 +9,8 @@ Use este arquivo para retomar o trabalho sem abrir vários Colabs. Cada entrada 
 
 [Quadro e tarefas](QUADRO.md) · [Bases encontradas no Drive](docs/BASES_NO_DRIVE.md)
 
+- [Vendas de videogames](projetos/vendas-videogames/analise-games-1y8onn/): análise e dados conferidos, com quatro figuras.
+
 ## Ordem sugerida
 
 1. Dígitos: evoluções opcionais após a demonstração já verificada.
@@ -85,12 +87,6 @@ Use este arquivo para retomar o trabalho sem abrir vários Colabs. Cada entrada 
 - [ ] Localizar ou criar dados sintéticos, restringir replace à coluna Notas, definir escala/regra de bônus e aprovação, corrigir import de pyplot e substituir todas as conclusões de exemplo por cálculos. Revisar identificação de alunos.
 - [ ] Registrar como reproduzir e os resultados verificados.
 
-### [Analise Games](em-andamento/vendas-videogames/analise-games-1y8onn/)
-
-**Status:** Rascunho.
-
-- [ ] Localizar CSV, concluir vendas por plataforma/editora/ano e corrigir justificativa: 271/16598 é cerca de 1,63%, não menos de 1%. Registrar impacto da exclusão.
-- [ ] Registrar como reproduzir e os resultados verificados.
 
 ### [Índice de preços ao produtor — preparação dos dados](em-andamento/ipp-ibge/indice-de-precos-ao-produtor-preparacao-dos-dados-1gw0aw/)
 

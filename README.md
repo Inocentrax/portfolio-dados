@@ -22,6 +22,7 @@ Este repositório é o ponto central para encontrar, continuar e documentar meus
 |---|---|---|
 | [Classificação de dígitos — logística e MLP](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
 | [Anúncios de aluguel — análise exploratória](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
+| [Vendas de videogames — plataformas e regiões](projetos/vendas-videogames/analise-games-1y8onn/) | Concluído | 16.598 registros, rankings e quatro gráficos verificados |
 
 ![Comparação de modelos em Digits](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/assets/comparacao-modelos.png)
 
@@ -47,10 +48,10 @@ Este repositório é o ponto central para encontrar, continuar e documentar meus
 - **Estudo:** 39 notebooks.
 - **Versão de referência:** 11 notebooks.
 - **Em andamento:** 10 notebooks.
-- **Concluído no escopo demonstrativo:** 2 notebooks.
-- **Rascunho:** 7 notebooks.
+- **Concluído no escopo demonstrativo:** 3 notebooks.
+- **Rascunho:** 6 notebooks.
 
-Cada pasta informa o conteúdo disponível, as dependências e o que precisa ser verificado. As duas demonstrações em destaque foram executadas e têm resultados próprios; os demais trabalhos mantêm seus status e pendências. Outputs antigos das importações não são tratados como validação.
+Cada pasta informa o conteúdo disponível, as dependências e o que precisa ser verificado. As três demonstrações em destaque foram executadas e têm resultados próprios; os demais trabalhos mantêm seus status e pendências. Outputs antigos das importações não são tratados como validação.
 
 ## Outros projetos no GitHub
 

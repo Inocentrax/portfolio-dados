@@ -37,3 +37,9 @@ Em 15/11/2026 foram executados os scripts completos de classificação de dígit
 O ambiente adicional de execução foi instalado em uma pasta isolada do workspace. Dados em cache e pacotes não fazem parte da publicação.
 
 As versões finais dos dois notebooks também foram executadas integralmente, além dos scripts equivalentes; os 70 notebooks passaram na validação de esquema nbformat.
+
+## VGSales — continuidade após envio dos dados
+
+Arquivo enviado conferido por conteúdo e checksum com a versão arquivada. Análise executada com os 16.598 registros preservados; 271 ausências de ano e 58 de editora tratadas conforme o uso. Agregações de plataforma/editora conservam o total global e as participações de gênero somam 100% por região. Quatro gráficos foram inspecionados visualmente. O ano é tratado como lançamento, não como calendário de transações.
+
+O catálogo mantém 69 trabalhos ativos: 3 demonstrações concluídas, 10 em andamento, 6 rascunhos, 39 estudos e 11 versões de referência. O endereço antigo do notebook de videogames contém apenas uma orientação de mudança, sem duplicar o desenvolvimento.

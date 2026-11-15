@@ -698,18 +698,21 @@
     "images": 0
   },
   {
-    "title": "Analise Games",
+    "title": "Vendas de videogames — plataformas e regiões",
     "originalTitle": "Analise_Games.ipynb",
-    "status": "Rascunho",
-    "classification": "Rascunho",
-    "path": "em-andamento/vendas-videogames/analise-games-1y8onn",
-    "notebook": "em-andamento/vendas-videogames/analise-games-1y8onn/notebook.ipynb",
-    "action": "Localizar CSV, concluir vendas por plataforma/editora/ano e corrigir justificativa: 271/16598 é cerca de 1,63%, não menos de 1%. Registrar impacto da exclusão.",
+    "status": "Concluído",
+    "classification": "Demonstração verificada",
+    "path": "projetos/vendas-videogames/analise-games-1y8onn",
+    "notebook": "projetos/vendas-videogames/analise-games-1y8onn/notebook.ipynb",
+    "action": "Evolução opcional: comparar cobertura histórica e investigar títulos homônimos e diferenças regionais.",
     "dependencies": [
-      "pandas"
+      "numpy",
+      "pandas",
+      "matplotlib"
     ],
     "sourceHash": "1ba8a31cae62a7ae40dc2310bf7653d39e41e2d70a8b12bcea41c370fb8434a5",
-    "images": 0
+    "images": 0,
+    "verified": "2026-11-15"
   },
   {
     "title": "Seleção de linhas com pandas",

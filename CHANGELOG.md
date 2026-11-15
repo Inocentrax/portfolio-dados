@@ -18,3 +18,9 @@ A verificação realizada para esta migração está descrita em docs/VALIDACAO.
 - Duas demonstrações concluídas no escopo definido, com cinco gráficos e resultados calculados.
 - Quatro issues de continuidade e quadro Markdown.
 - Texto de perfil e descrições About preparados; ativação depende de recursos de configuração ainda indisponíveis.
+
+## VGSales — 15/11/2026
+
+- Base enviada e associada a Analise_Games.ipynb após conferência de colunas, linhas e checksum.
+- Exploração concluída com quatro gráficos, seis tabelas, script e notebook reproduzíveis.
+- Projeto promovido de rascunho para demonstração concluída, com orientação no endereço anterior.

@@ -1,0 +1,82 @@
+{
+  "rows": 16598,
+  "columns": [
+    "Rank",
+    "Name",
+    "Platform",
+    "Year",
+    "Genre",
+    "Publisher",
+    "NA_Sales",
+    "EU_Sales",
+    "JP_Sales",
+    "Other_Sales",
+    "Global_Sales"
+  ],
+  "dataset_sha256": "e2076095ffcae2a92dbc6de6ecbd54455ee034bb38da550b2dc385e9265d4ebe",
+  "dataset_md5": "67fa6f5efdc100db4586aa80556e8620",
+  "reference_doi": "10.5281/zenodo.5898311",
+  "unit": "milhões de cópias",
+  "row_meaning": "registro de título/plataforma, não jogo único",
+  "platforms": 31,
+  "distinct_names": 11493,
+  "missing": {
+    "Rank": 0,
+    "Name": 0,
+    "Platform": 0,
+    "Year": 271,
+    "Genre": 0,
+    "Publisher": 58,
+    "NA_Sales": 0,
+    "EU_Sales": 0,
+    "JP_Sales": 0,
+    "Other_Sales": 0,
+    "Global_Sales": 0
+  },
+  "rows_removed_by_blanket_dropna": 307,
+  "rows_kept": 16598,
+  "rows_used_for_release_year": 16327,
+  "duplicate_full_rows": 0,
+  "global_sales_millions": 8920.440000000002,
+  "top_platform": {
+    "name": "PS2",
+    "sales_millions": 1255.64
+  },
+  "top_publisher_sales": {
+    "name": "Nintendo",
+    "sales_millions": 1786.56
+  },
+  "top_publisher_records": {
+    "name": "Electronic Arts",
+    "records": 1351
+  },
+  "top_title": {
+    "name": "Wii Sports",
+    "sales_millions": 82.74
+  },
+  "largest_release_cohort": {
+    "year": 2008,
+    "sales_millions": 678.9
+  },
+  "regional_totals_millions": {
+    "NA_Sales": 4392.950000000001,
+    "EU_Sales": 2434.1300000000006,
+    "JP_Sales": 1291.02,
+    "Other_Sales": 797.7500000000001
+  },
+  "max_abs_regional_vs_global_difference": 0.020000000000000462,
+  "rows_regional_difference_above_0_05": 0,
+  "environment": {
+    "python": "3.12.14",
+    "pandas": "3.1.1",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2"
+  },
+  "limitations": [
+    "Snapshot histórico; não é o mercado atual.",
+    "Sem identificação da loja de venda; não é uma base exclusiva da Steam.",
+    "Year é lançamento, não ano da venda.",
+    "Cobertura e estimativas da fonte não constituem um censo da indústria.",
+    "Agrupar Name pode reunir versões diferentes com o mesmo nome."
+  ]
+}

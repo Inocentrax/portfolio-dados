@@ -10,6 +10,8 @@ Desenvolvo projetos de análise exploratória, organização de dados e aprendiz
 | [Anúncios de aluguel](https://github.com/Inocentrax/portfolio-dados/tree/main/projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx) | Exploração de anúncios, qualidade de dados e comparação de medianas por bairro |
 | [Agenda BB Digital Week](https://github.com/Inocentrax/Site-BB-digital-Week-2024) | Interface de consulta com filtros sobre dados históricos de eventos |
 
+- [Vendas de videogames](https://github.com/Inocentrax/portfolio-dados/tree/main/projetos/vendas-videogames/analise-games-1y8onn): rankings, qualidade dos dados e comparação regional com VGSales.
+
 ## Ferramentas nos projetos
 
 Python, pandas, NumPy, Matplotlib, scikit-learn e PyTorch; também mantenho exercícios e aplicações em JavaScript e Java.
