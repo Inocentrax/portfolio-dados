@@ -4,6 +4,17 @@
 
 O status de cada entrada informa o estágio real do trabalho.
 
+**71 trabalhos: 69 notebooks e 2 projetos com código Python ou web.**
+
+## Projetos integrados ao portfólio
+
+Código, documentação e próximos passos estão nas pastas abaixo. Os repositórios anteriores conservam o histórico. Estas entradas também aparecem nas listas por status.
+
+| Projeto | Status | Conteúdo |
+|---|---|---|
+| [Vendas da Amazon na Índia](projetos/vendas-amazon-india/) | Em andamento | Análise de dados em Python |
+| [Extinção animal — busca de espécies](projetos/extincao-animal/) | Estudo | Aplicação web com base local de espécies |
+
 ## Demonstrações concluídas e verificadas (3)
 
 | Conteúdo | Status | Próximo passo |

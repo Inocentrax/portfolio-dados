@@ -54,9 +54,11 @@ Código, documentação e próximos passos ficam nas pastas acima. Além dos 69 
 
 ## Situação da coleção
 
-- **Estudo:** 39 notebooks.
+**71 trabalhos cadastrados: 69 notebooks e 2 projetos com código Python ou web.**
+
+- **Estudo:** 40 trabalhos (39 notebooks e 1 aplicação web).
 - **Versão de referência:** 11 notebooks.
-- **Em andamento:** 10 notebooks.
+- **Em andamento:** 11 trabalhos (10 notebooks e 1 projeto Python).
 - **Concluído no escopo demonstrativo:** 3 notebooks.
 - **Rascunho:** 6 notebooks.
 

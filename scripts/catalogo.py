@@ -17,6 +17,14 @@ def slug(value):
 def render(entries):
     groups = [('Concluído', 'Demonstrações concluídas e verificadas'), ('Em andamento', 'Projetos em andamento'), ('Rascunho', 'Rascunhos e ideias'), ('Estudo', 'Estudos por assunto'), ('Versão de referência', 'Versões de referência')]
     text = '# Catálogo de projetos e estudos\n\n[Início](README.md) · [Próximos passos](PROXIMOS_PASSOS.md) · [Fluxo de trabalho](COMO_TRABALHAR.md)\n\nO status de cada entrada informa o estágio real do trabalho.\n'
+    notebooks = sum(bool(e.get('notebook')) for e in entries)
+    text += f'\n**{len(entries)} trabalhos: {notebooks} notebooks e {len(entries) - notebooks} projetos com código Python ou web.**\n'
+    integrated = [e for e in entries if e.get('sourceRepository')]
+    if integrated:
+        text += '\n## Projetos integrados ao portfólio\n\nCódigo, documentação e próximos passos estão nas pastas abaixo. Os repositórios anteriores conservam o histórico. Estas entradas também aparecem nas listas por status.\n\n| Projeto | Status | Conteúdo |\n|---|---|---|\n'
+        for e in integrated:
+            kind = 'Análise de dados em Python' if e['entrypoint'].endswith('.py') else 'Aplicação web com base local de espécies'
+            text += f'| [{e["title"]}]({e["path"]}/) | {e["status"]} | {kind} |\n'
     for status, title in groups:
         selected = [e for e in entries if e['status'] == status]
         if not selected:
