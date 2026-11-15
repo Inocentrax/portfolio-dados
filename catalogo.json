@@ -1,0 +1,1015 @@
+[
+  {
+    "title": "01 primeiro olhar",
+    "originalTitle": "01_primeiro_olhar.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-iot/01-primeiro-olhar-1l5qqo",
+    "notebook": "estudos/estudos-iot/01-primeiro-olhar-1l5qqo/notebook.ipynb",
+    "action": "Usar esta cópia respondida como base; preservar autoria do material EmpreendAIoT/Instituto Hardware BR; localizar sensores_sala.csv, registrar sua origem e finalizar as respostas. Não apresentar como preditor: não há treinamento de modelo.",
+    "dependencies": [
+      "matplotlib",
+      "pandas"
+    ],
+    "sourceHash": "369f0c859c77ee899db38798651d04241620503531acbfdff9ab53f40ff66816",
+    "images": 0
+  },
+  {
+    "title": "01 primeiro olhar",
+    "originalTitle": "01_primeiro_olhar.ipynb",
+    "status": "Versão de referência",
+    "classification": "Versão",
+    "path": "arquivo/versoes/arquivo-revisao/01-primeiro-olhar-1e66x8",
+    "notebook": "arquivo/versoes/arquivo-revisao/01-primeiro-olhar-1e66x8/notebook.ipynb",
+    "action": "Preservar como enunciado de referência, fora da vitrine; não duplicar no portfólio.",
+    "dependencies": [
+      "matplotlib",
+      "pandas"
+    ],
+    "sourceHash": "ecd4b1f7bbcefa0f81da1ce7f662d9f8f5ef0d1ce943ff8a4fede5666ae43946",
+    "images": 0
+  },
+  {
+    "title": "bacen selic 2023",
+    "originalTitle": "bacen_selic_2023.ipynb",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/coleta-dados-bacen/bacen-selic-2023-11k0ur",
+    "notebook": "projetos/coleta-dados-bacen/bacen-selic-2023-11k0ur/notebook.ipynb",
+    "action": "Explicar série, unidade e intervalo (o nome sugere 2023 inteiro, mas a consulta é apenas janeiro); parametrizar datas, tratar falha HTTP e timeout, substituir caminho /content e tornar a gravação repetível (modo xb falha se o arquivo já existir). Acrescentar análise simples ou apresentá-lo como projeto de coleta.",
+    "dependencies": [
+      "pandas",
+      "requests"
+    ],
+    "sourceHash": "b288649a987ae251cbd02df2980abc704f23989e2f42ae1c4d8121963eaf95ae",
+    "images": 0
+  },
+  {
+    "title": "Autorização de acesso por papéis",
+    "originalTitle": "autenticação.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/autorizacao-de-acesso-por-papeis-1u6f-e",
+    "notebook": "estudos/fundamentos-python/autorizacao-de-acesso-por-papeis-1u6f-e/notebook.ipynb",
+    "action": "Renomear para autorização por papéis, explicar casos permitido/negado/desconhecido e reduzir repetições. Agrupar com simulador e exercícios RNP.",
+    "dependencies": [],
+    "sourceHash": "6643aa9abc93fc1ad268505da67f957bb11b404449e4b9bbefaace1a05b1dae4",
+    "images": 0
+  },
+  {
+    "title": "atividade pratica 01 sklearn pytorch basics ",
+    "originalTitle": "atividade_pratica_01_sklearn_pytorch_basics .ipynb",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r",
+    "notebook": "projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/notebook.ipynb",
+    "action": "Priorizar como base principal. Trocar linguagem de entrega escolar por narrativa do experimento, preservar créditos, remover TODOs já resolvidos, registrar versões e sementes e escrever a comparação final baseada nas métricas de teste. Verificar execução limpa.",
+    "dependencies": [
+      "matplotlib",
+      "numpy",
+      "scikit-learn",
+      "torch"
+    ],
+    "sourceHash": "757e96082a1adeb4874dfde9357470c2c0b34279d4fef2464481985e6ff5da9b",
+    "images": 0
+  },
+  {
+    "title": "Deep Learning Digits",
+    "originalTitle": "Deep_Learning_Digits.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/classificacao-digitos/deep-learning-digits-1etoks",
+    "notebook": "estudos/classificacao-digitos/deep-learning-digits-1etoks/notebook.ipynb",
+    "action": "Converter anotações em Markdown, corrigir Y/y e deixar explícito que a acurácia mostrada usa cinco amostras de treino. Manter como estudo de apoio ao notebook principal.",
+    "dependencies": [
+      "matplotlib",
+      "scikit-learn",
+      "torch"
+    ],
+    "sourceHash": "4a88798eb38089fe88f83cb28c365144d95204bb507e88ef94e6c0a00352c11f",
+    "images": 0
+  },
+  {
+    "title": "RNP Exercícios focados",
+    "originalTitle": "RNP_Exercícios_focados.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/rnp-exercicios-focados-1-vr-2",
+    "notebook": "estudos/fundamentos-python/rnp-exercicios-focados-1-vr-2/notebook.ipynb",
+    "action": "Adicionar enunciados e resultados esperados, padronizar nomes dos recursos (há relatorio/relatório) e agrupar com os checkpoints.",
+    "dependencies": [],
+    "sourceHash": "409ad0ad5ec95e6ce0daf1a4c53580b1556d60e3da67ab609f02b78bd2871b91",
+    "images": 0
+  },
+  {
+    "title": "Pratica Pytorch",
+    "originalTitle": "Pratica Pytorch.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-ml/pratica-pytorch-1ogjuu",
+    "notebook": "estudos/fundamentos-ml/pratica-pytorch-1ogjuu/notebook.ipynb",
+    "action": "Apresentar como introdução ao forward e à perda ou completar treino e validação antes de chamá-lo de modelo treinado.",
+    "dependencies": [
+      "torch"
+    ],
+    "sourceHash": "70b879add9df6c2e6ed5cbad14d7aba7e27d2c71ded790aa34a3b3361b524f90",
+    "images": 0
+  },
+  {
+    "title": "Entrega 1 - Deep Learning - Criar",
+    "originalTitle": "Entrega 1 - Deep Learning - Criar.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/arquivo-revisao/entrega-1-deep-learning-criar-1pthir",
+    "notebook": "estudos/arquivo-revisao/entrega-1-deep-learning-criar-1pthir/notebook.ipynb",
+    "action": "Manter como material pessoal; extrair explicações autorais resolvidas em um guia separado, com atribuição da origem. Não usar como projeto concluído.",
+    "dependencies": [],
+    "sourceHash": "73505e9c822f9667172a714da18f1372fcda6aae502b9aa27489b1156d1ab8aa",
+    "images": 0
+  },
+  {
+    "title": "Simulador de controle de acesso",
+    "originalTitle": "Simulador de controle de acesso.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/simulador-de-controle-de-acesso-1jj4mk",
+    "notebook": "estudos/fundamentos-python/simulador-de-controle-de-acesso-1jj4mk/notebook.ipynb",
+    "action": "Adicionar objetivo, exemplos e explicação de 0/1; integrar à sequência didática de autorização.",
+    "dependencies": [],
+    "sourceHash": "7b83e3fea310a140aa0cc5fee3fa6d50e7aa6a7015dd293444983981047097f2",
+    "images": 0
+  },
+  {
+    "title": " relação linear- Estudo deep learning projeto criar",
+    "originalTitle": " relação linear- Estudo deep learning projeto criar.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-ml/relacao-linear-estudo-deep-learning-projeto-criar-1df1wm",
+    "notebook": "estudos/fundamentos-ml/relacao-linear-estudo-deep-learning-projeto-criar-1df1wm/notebook.ipynb",
+    "action": "Rever y = a + b na parte manual, explicitar y = a*x + b, concluir comparação linear/polinomial e interpretar MSE de treino/validação. Reaproveitar Pearson como módulo anterior.",
+    "dependencies": [
+      "matplotlib",
+      "numpy",
+      "pandas",
+      "scikit-learn"
+    ],
+    "sourceHash": "fd4002fe8732faadb11accc07d4fb90b7202600219ffe370102836bf5b7bf0e3",
+    "images": 0
+  },
+  {
+    "title": "Cópia de Cópia de RNP TRUST-ID — Checkpoint dia 4",
+    "originalTitle": "Cópia de Cópia de RNP TRUST-ID — Checkpoint dia 4.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/copia-de-copia-de-rnp-trust-id-checkpoint-dia-4-1xxgsw",
+    "notebook": "estudos/fundamentos-python/copia-de-copia-de-rnp-trust-id-checkpoint-dia-4-1xxgsw/notebook.ipynb",
+    "action": "Usar como fonte da versão consolidada; capturar exemplos de erro com tratamento explícito e separar de testes que devem passar. Remover repetição dos dias anteriores.",
+    "dependencies": [],
+    "sourceHash": "6264679d8bcea9fc2e98e8094528c85786fb5003ea0f6b2ab7738438336db46e",
+    "images": 0
+  },
+  {
+    "title": "Cópia de RNP TRUST-ID — Checkpoint dia 3",
+    "originalTitle": "Cópia de RNP TRUST-ID — Checkpoint dia 3.ipynb",
+    "status": "Versão de referência",
+    "classification": "Versão",
+    "path": "arquivo/versoes/arquivo-revisao/copia-de-rnp-trust-id-checkpoint-dia-3-1nvfro",
+    "notebook": "arquivo/versoes/arquivo-revisao/copia-de-rnp-trust-id-checkpoint-dia-3-1nvfro/notebook.ipynb",
+    "action": "Preservar histórico; incorporar apenas a parte nova de exceções no material consolidado.",
+    "dependencies": [],
+    "sourceHash": "b373ce0c4cc69ea32e708713268c6641759fca6f6d926701c47f5e660f3cb821",
+    "images": 0
+  },
+  {
+    "title": "RNP TRUST-ID — Checkpoint dia 2",
+    "originalTitle": "RNP TRUST-ID — Checkpoint dia 2.ipynb",
+    "status": "Versão de referência",
+    "classification": "Versão",
+    "path": "arquivo/versoes/arquivo-revisao/rnp-trust-id-checkpoint-dia-2-1sx-1s",
+    "notebook": "arquivo/versoes/arquivo-revisao/rnp-trust-id-checkpoint-dia-2-1sx-1s/notebook.ipynb",
+    "action": "Incorporar a função e os testes úteis ao conjunto final; não publicar cópias cumulativas como projetos independentes.",
+    "dependencies": [],
+    "sourceHash": "3c89dbc227e7d65f79dc55c0a3cd27f8f29cbb64036fcc8f14554ab30210042a",
+    "images": 0
+  },
+  {
+    "title": "Estudo deep learning projeto criar - coeficiente de correlação de Pearson",
+    "originalTitle": "Estudo deep learning projeto criar - coeficiente de correlação de Pearson.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-ml/estudo-deep-learning-projeto-criar-coeficiente-de-correlacao-de-pearson-1cwyqm",
+    "notebook": "estudos/fundamentos-ml/estudo-deep-learning-projeto-criar-coeficiente-de-correlacao-de-pearson-1cwyqm/notebook.ipynb",
+    "action": "Remover import interno desnecessário de numpy._core, revisar o comentário sobre soma de produtos e comparar resultado com função de biblioteca; explicar caso de denominador zero.",
+    "dependencies": [
+      "numpy",
+      "pandas"
+    ],
+    "sourceHash": "ac796d828a0fdeaf61582f6ae9f0c7243f5e3825a41cd39129a734fd2ecf068b",
+    "images": 0
+  },
+  {
+    "title": "RNP TRUST-ID — Checkpoint 1",
+    "originalTitle": "RNP TRUST-ID — Checkpoint 1.ipynb",
+    "status": "Versão de referência",
+    "classification": "Versão",
+    "path": "arquivo/versoes/arquivo-revisao/rnp-trust-id-checkpoint-1-1yknm1",
+    "notebook": "arquivo/versoes/arquivo-revisao/rnp-trust-id-checkpoint-1-1yknm1/notebook.ipynb",
+    "action": "Preservar como histórico de aprendizagem; corrigir ou apresentar os erros como demonstração controlada no notebook final.",
+    "dependencies": [],
+    "sourceHash": "3684edf8e8a2ec37dfbb02f14140eea68f510ec7701910ec47077d671db7dc87",
+    "images": 0
+  },
+  {
+    "title": "Exercicios python",
+    "originalTitle": "Exercicios python.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/exercicios-python-1yk9qo",
+    "notebook": "estudos/fundamentos-python/exercicios-python-1yk9qo/notebook.ipynb",
+    "action": "Acrescentar os enunciados ausentes e agrupar como fundamentos; não precisa de repositório individual.",
+    "dependencies": [],
+    "sourceHash": "fda1c8d619d4c8316a543c8fda8a593e4f3d4386eb159276db21303adbfb4f02",
+    "images": 0
+  },
+  {
+    "title": "Teste de habilidades",
+    "originalTitle": "Teste de habilidades.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/teste-de-habilidades-1bkni7",
+    "notebook": "estudos/fundamentos-python/teste-de-habilidades-1bkni7/notebook.ipynb",
+    "action": "Criar seções por problema, evitar usar list como nome de variável, revisar legendas maior/menor e tratar grupos vazios nas médias.",
+    "dependencies": [],
+    "sourceHash": "643263a5770765613bcd67e26a0ed28cfaa27dbf43a041ab9e24b722a682bd22",
+    "images": 0
+  },
+  {
+    "title": "avaliação pratica curso deep learning avançado(questões)",
+    "originalTitle": "avaliação pratica curso deep learning avançado(questões).ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/arquivo-revisao/avaliacao-pratica-curso-deep-learning-avancado-questoes-1hseau",
+    "notebook": "estudos/arquivo-revisao/avaliacao-pratica-curso-deep-learning-avancado-questoes-1hseau/notebook.ipynb",
+    "action": "Separar enunciado, erro e solução; impedir que valores(i) e quantidade não definida interrompam a execução. Renomear: o conteúdo é fundamentos de Python, não deep learning avançado implementado.",
+    "dependencies": [],
+    "sourceHash": "9344fb2a8c197dfec6b4b0028189803566cad74512a85fcb095916076aff0131",
+    "images": 0
+  },
+  {
+    "title": "Filtro de imagens com NumPy",
+    "originalTitle": "q10.py",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/filtro-de-imagens-com-numpy-1v8z6d",
+    "notebook": "estudos/fundamentos-python/filtro-de-imagens-com-numpy-1v8z6d/notebook.ipynb",
+    "action": "Renomear com extensão .ipynb; identificar o exercício de origem; explicar comportamento para dimensões incompatíveis e validar os três exemplos.",
+    "dependencies": [
+      "numpy"
+    ],
+    "sourceHash": "361873aa8750b4b7cc39d0053764798b6e02e9e3f61832ad0b56652fd0dbd97a",
+    "images": 0
+  },
+  {
+    "title": "Inversão de listas",
+    "originalTitle": "Untitled0.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/inversao-de-listas-1lquov",
+    "notebook": "estudos/fundamentos-python/inversao-de-listas-1lquov/notebook.ipynb",
+    "action": "Reaproveitar como exercício e eliminar a duplicação editorial com Exercicios python após consolidar.",
+    "dependencies": [],
+    "sourceHash": "9afe54bc824b7cbab0b907d3441c5ac21b338bc2142ab280827b57b7d3e3d3f5",
+    "images": 0
+  },
+  {
+    "title": "Estudo sobre SVC E LinearSvc",
+    "originalTitle": "Estudo sobre SVC E LinearSvc.ipynb",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/estudos-machine-learning/estudo-sobre-svc-e-linearsvc-1b8yjj",
+    "notebook": "projetos/estudos-machine-learning/estudo-sobre-svc-e-linearsvc-1b8yjj/notebook.ipynb",
+    "action": "Documentar dados e créditos, transformar comparação em tabela com métricas e tempo, fixar ano de referência para idade do veículo (datetime.today muda o experimento), padronizar seeds e considerar pipeline.",
+    "dependencies": [
+      "pandas",
+      "scikit-learn"
+    ],
+    "sourceHash": "6afac587c4568b3baacdd04e1ce309cd8e895ef843c340e982c8086e37b02e70",
+    "images": 0
+  },
+  {
+    "title": "Ideia de fluxo de processamento de linguagem",
+    "originalTitle": "Estruturação PLN.ipynb",
+    "status": "Rascunho",
+    "classification": "Rascunho",
+    "path": "em-andamento/arquivo-revisao/ideia-de-fluxo-de-processamento-de-linguagem-18fstx",
+    "notebook": "em-andamento/arquivo-revisao/ideia-de-fluxo-de-processamento-de-linguagem-18fstx/notebook.ipynb",
+    "action": "Transformar em nota de arquitetura com objetivo e escopo ou manter como ideia. Não publicar como implementação.",
+    "dependencies": [],
+    "sourceHash": "2477ef0558419584db1b93d35b0572f9ec8e961a4eae03b0d8100f23c40b0a5c",
+    "images": 0
+  },
+  {
+    "title": "Introdução Machine Learning (Classificação 3)",
+    "originalTitle": "Introdução Machine Learning (Classificação 3).ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-machine-learning/introducao-machine-learning-classificacao-3-1y0rrf",
+    "notebook": "estudos/estudos-machine-learning/introducao-machine-learning-classificacao-3-1y0rrf/notebook.ipynb",
+    "action": "Organizar em baseline, comparação e conclusão; corrigir o primeiro y_min/y_max invertido, reduzir repetições e deixar divisão/escala de cada gráfico claras.",
+    "dependencies": [
+      "matplotlib",
+      "numpy",
+      "pandas",
+      "scikit-learn",
+      "seaborn"
+    ],
+    "sourceHash": "3ea1c2fc0429147f81a98c54c7c52b30e8bc5c978b57d336cd69be40ff27355c",
+    "images": 0
+  },
+  {
+    "title": "Introdução POO",
+    "originalTitle": "Introdução_POO.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/introducao-poo-1uqzsr",
+    "notebook": "estudos/fundamentos-python/introducao-poo-1uqzsr/notebook.ipynb",
+    "action": "Corrigir self.__class_ para __class__, revisar chamada recursiva indentada dentro de criar_cachorro e separar as redefinições em etapas didáticas.",
+    "dependencies": [],
+    "sourceHash": "e5b8280d6483cbd03435f34997b98d77e30bd7476070c1f4a879922de210f466",
+    "images": 0
+  },
+  {
+    "title": "Projeto Cursos de Graduação",
+    "originalTitle": "Projeto Cursos de Graduação.ipynb",
+    "status": "Rascunho",
+    "classification": "Rascunho",
+    "path": "em-andamento/cursos-graduacao/projeto-cursos-de-graduacao-1ftx7d",
+    "notebook": "em-andamento/cursos-graduacao/projeto-cursos-de-graduacao-1ftx7d/notebook.ipynb",
+    "action": "Localizar CSV e data de extração, formular pergunta geográfica adequada a categorias, criar agregações/gráficos por UF e concluir antes de promover a projeto.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "a0c5e1f3dff22d99ec6b264e3cef0575f9d2c0e84761e652c225a921a648da17",
+    "images": 0
+  },
+  {
+    "title": "Introdução  Machine Learning(CLASSIFICAÇÃO) 2",
+    "originalTitle": "Introdução  Machine Learning(CLASSIFICAÇÃO) 2.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-machine-learning/introducao-machine-learning-classificacao-2-1zxai7",
+    "notebook": "estudos/estudos-machine-learning/introducao-machine-learning-classificacao-2-1zxai7/notebook.ipynb",
+    "action": "Corrigir sobreposição x[:70]/x[69:], manter apenas exemplos necessários e marcar diferenças entre divisão incorreta e correta.",
+    "dependencies": [
+      "pandas",
+      "scikit-learn"
+    ],
+    "sourceHash": "c0b9f4f42ef3aa162933536c89243b536dc00e5f0015dc4a8e7b04fcfe85b239",
+    "images": 0
+  },
+  {
+    "title": "Estudo Classificação Machine Learning",
+    "originalTitle": "Estudo_Classificação_Machine_Learning.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-machine-learning/estudo-classificacao-machine-learning-1penb7",
+    "notebook": "estudos/estudos-machine-learning/estudo-classificacao-machine-learning-1penb7/notebook.ipynb",
+    "action": "Explicar ambiguidade dos dados e limites do exemplo, revisar rótulos/comentários, retirar imagens do base64 para assets e creditar sua origem. Complementa a sequência 2/3, não é duplicata deles.",
+    "dependencies": [
+      "scikit-learn"
+    ],
+    "sourceHash": "6907fdde18825d4fe0f7ac85b22074ab16d6b910a9afe4b7173c74bd1f433450",
+    "images": 7
+  },
+  {
+    "title": "Logica Listas Tuplas Conjuntos Dicionarios Funções",
+    "originalTitle": "Logica_Listas_Tuplas_Conjuntos_Dicionarios_Funções.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/logica-listas-tuplas-conjuntos-dicionarios-funcoes-1ptpvn",
+    "notebook": "estudos/fundamentos-python/logica-listas-tuplas-conjuntos-dicionarios-funcoes-1ptpvn/notebook.ipynb",
+    "action": "Dividir por assunto, criar índice, revisar explicação de interseção (não é mediana), corrigir tupla de um elemento e isolar exemplos que geram erro. Remover repetições e extrair figuras.",
+    "dependencies": [],
+    "sourceHash": "23fe01e243eae17b60ded5f135eaa984921bf0a4efa4d8b3ee2b7cc251aa32fc",
+    "images": 6
+  },
+  {
+    "title": "Projeto imobiliaria",
+    "originalTitle": "Projeto_imobiliaria",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx",
+    "notebook": "projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/notebook.ipynb",
+    "action": "Consolidar em único fluxo sem mutações contraditórias; justificar imputação por bairro/área; corrigir comparação de Series em cop_dados[Valor] == maior_valor e distinguir revisitação de resultado final. Gerar conclusões e CSVs com extensão.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "eec2bce60da94e5c15140c6ae233e4b9471288b6a76194daac4d9f63255fe14d",
+    "images": 0
+  },
+  {
+    "title": "Analise de Topicos em Emails",
+    "originalTitle": "Analise de Topicos em Emails.ipynb",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/topicos-emails/analise-de-topicos-em-emails-1badcb",
+    "notebook": "projetos/topicos-emails/analise-de-topicos-em-emails-1badcb/notebook.ipynb",
+    "action": "Preservar três autores; acrescentar import/dependência unidecode; padronizar ambiente e unificar com três variantes LDA; usar amostra sintética/anonimizada e revisar saídas para não expor e-mails. Relacionar rótulos aos tópicos efetivamente treinados.",
+    "dependencies": [
+      "gensim",
+      "nltk",
+      "pandas",
+      "pyLDAvis",
+      "spacy",
+      "unidecode"
+    ],
+    "sourceHash": "eae5db10cd8957490b4aada1cc25c286f3e281b3a80f23184f744a5613455c03",
+    "images": 0
+  },
+  {
+    "title": "Clusterização das Escolas Públicas Brasileiras (IDEB 2005–2023) - Região Norte",
+    "originalTitle": "Clusterização das Escolas Públicas Brasileiras (IDEB 2005–2023) - Região Norte",
+    "status": "Versão de referência",
+    "classification": "Versão",
+    "path": "arquivo/versoes/ideb-regiao-norte/clusterizacao-das-escolas-publicas-brasileiras-ideb-2005-2023-regiao-norte-1uck9u",
+    "notebook": "arquivo/versoes/ideb-regiao-norte/clusterizacao-das-escolas-publicas-brasileiras-ideb-2005-2023-regiao-norte-1uck9u/notebook.ipynb",
+    "action": "Não adotar apenas por ter descrição longa. Resolver esquema das colunas, sobrescrita do filtro Norte, sequência de renomeação e Cluster_4 antes de uso; substituir métricas simuladas por calculadas e alinhar escola/município e etapa escolar à base. Reaproveitar narrativa verificada.",
+    "dependencies": [
+      "matplotlib",
+      "networkx",
+      "numpy",
+      "pandas",
+      "scikit-learn",
+      "seaborn"
+    ],
+    "sourceHash": "9612b28bff268f38dad58d794f9feba6db06db7fae6dc74b7e2a43f26822447b",
+    "images": 0
+  },
+  {
+    "title": "Trabalho Aprendizado Não Supervisionado",
+    "originalTitle": "Trabalho Aprendizado Não Supervisionado.ipynb",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/ideb-regiao-norte/trabalho-aprendizado-nao-supervisionado-1z1dwg",
+    "notebook": "projetos/ideb-regiao-norte/trabalho-aprendizado-nao-supervisionado-1z1dwg/notebook.ipynb",
+    "action": "Comparar com APRIORI para formar versão canônica; verificar etapas escolares da planilha versus colunas usadas, dados faltantes após conversão, escala dos radares e critérios dos clusters. Incluir fonte INEP, dicionário e limitações.",
+    "dependencies": [
+      "matplotlib",
+      "mlxtend",
+      "numpy",
+      "pandas",
+      "scikit-learn",
+      "scipy",
+      "seaborn"
+    ],
+    "sourceHash": "48cf2562e8c18bb4d85892862329079d0b315f1f00455113ba47ff23d4fc64f2",
+    "images": 0
+  },
+  {
+    "title": "Organizado",
+    "originalTitle": "Organizado.ipynb",
+    "status": "Versão de referência",
+    "classification": "Versão",
+    "path": "arquivo/versoes/ideb-regiao-norte/organizado-1pm4ce",
+    "notebook": "arquivo/versoes/ideb-regiao-norte/organizado-1pm4ce/notebook.ipynb",
+    "action": "Resolver df.dropna(subset=colunas_essenciais) com nomes não construídos naquele fluxo; aproveitar gráficos úteis e arquivar a cópia após consolidação.",
+    "dependencies": [
+      "matplotlib",
+      "mlxtend",
+      "networkx",
+      "pandas",
+      "scikit-learn",
+      "seaborn"
+    ],
+    "sourceHash": "995c266d2762dfad7ce1fbcf8f8973699d27cf1c6fc3df31da06fbf66166c0fb",
+    "images": 0
+  },
+  {
+    "title": "Clusterização part 1",
+    "originalTitle": "Clusterização part 1.ipynb",
+    "status": "Versão de referência",
+    "classification": "Versão",
+    "path": "arquivo/versoes/ideb-regiao-norte/clusterizacao-part-1-1m92ou",
+    "notebook": "arquivo/versoes/ideb-regiao-norte/clusterizacao-part-1-1m92ou/notebook.ipynb",
+    "action": "Aproveitar documentação das variáveis, comparar escolhas de k com versões posteriores e preservar diferenças; substituir caminho planilhaIDEB.xlsx por entrada documentada.",
+    "dependencies": [
+      "matplotlib",
+      "numpy",
+      "pandas",
+      "scikit-learn"
+    ],
+    "sourceHash": "cc881964ce5b626dde84463db8b23437bbe002b55292f08f5e8e891734e3da0e",
+    "images": 0
+  },
+  {
+    "title": "teste and desafios",
+    "originalTitle": "teste_and_desafios.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/teste-and-desafios-1smolq",
+    "notebook": "estudos/estudos-pandas/teste-and-desafios-1smolq/notebook.ipynb",
+    "action": "Corrigir ranking por produto: somar Receita, não somar Receita_total repetida por categoria; separar exercícios de input interativo da execução automática e substituir orientação conversacional por enunciados claros.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "285710a9fae45fdc7568bd18695ad64dac1beac8abe0e19e1b29f046cd15d37a",
+    "images": 0
+  },
+  {
+    "title": "Projeto Steam Games",
+    "originalTitle": "Projeto_Steam_Games.ipynb",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/analise-jogos-steam/projeto-steam-games-1jnxam",
+    "notebook": "projetos/analise-jogos-steam/projeto-steam-games-1jnxam/notebook.ipynb",
+    "action": "Prioridade de portfólio após revisão: localizar fonte/licença/data do CSV, distinguir playtime de número de jogadores e owners de vendas; aplicar ranking antes de head(10) da CAPCOM; revisar moeda/centavos e escrever respostas verificadas às perguntas.",
+    "dependencies": [
+      "matplotlib",
+      "pandas"
+    ],
+    "sourceHash": "a8b02d898899b2cb3153d47b9fcc4c8986d2e2d973a2ff07d28352aae665221f",
+    "images": 0
+  },
+  {
+    "title": "Curso de visualização 1",
+    "originalTitle": "Curso de visualização_1.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/visualizacao-dados/curso-de-visualizacao-1-1g85ug",
+    "notebook": "estudos/visualizacao-dados/curso-de-visualizacao-1-1g85ug/notebook.ipynb",
+    "action": "Adicionar objetivo de cada gráfico, fonte sintética, legendas/unidades e comparação final; exportar figura estática para exibição no GitHub.",
+    "dependencies": [
+      "matplotlib",
+      "numpy",
+      "pandas",
+      "plotly",
+      "seaborn"
+    ],
+    "sourceHash": "08e128ef5c0b7b4e0413696a31a5a8be789c982dda254878c183fbce1b3a2b6f",
+    "images": 0
+  },
+  {
+    "title": "strings Dio",
+    "originalTitle": "strings_Dio.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/strings-dio-1fgjuc",
+    "notebook": "estudos/fundamentos-python/strings-dio-1fgjuc/notebook.ipynb",
+    "action": "Criar índice e limpar comentários informais; corrigir explicação de strip (remove bordas, não todos os espaços) e indicar saída esperada nos exemplos.",
+    "dependencies": [],
+    "sourceHash": "bce36bb5b96f4570108f20a4cd5442d7289cb84873d6de5b4812f71456ec3da4",
+    "images": 0
+  },
+  {
+    "title": "MTX lda Emails",
+    "originalTitle": "MTX_lda_Emails.ipynb",
+    "status": "Versão de referência",
+    "classification": "Versão",
+    "path": "arquivo/versoes/topicos-emails/mtx-lda-emails-16tuiv",
+    "notebook": "arquivo/versoes/topicos-emails/mtx-lda-emails-16tuiv/notebook.ipynb",
+    "action": "Consolidar recursos linguísticos e versões; treinar modelo final com o melhor k escolhido (hoje busca e treino fixo não estão conectados); preservar função útil e arquivar redundância.",
+    "dependencies": [
+      "gensim",
+      "nltk",
+      "numpy",
+      "pandas",
+      "pyLDAvis",
+      "spacy",
+      "tqdm"
+    ],
+    "sourceHash": "b32e22160363c09457d45cf2eca62602e110111158e4ec03e368c8698369b0fd",
+    "images": 0
+  },
+  {
+    "title": "SENSORES GALPÕES",
+    "originalTitle": "SENSORES_GALPÕES",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/sensores-industriais/sensores-galpoes-1uaygj",
+    "notebook": "projetos/sensores-industriais/sensores-galpoes-1uaygj/notebook.ipynb",
+    "action": "Rotular dados como sintéticos, concluir regras de qualidade, tratar nulos e comparar antes/depois; distinguir Falha de Inativa (o dataset não tem status Inativa). Não apresentar como implantação industrial real.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "6f4cc2e6b72254740203a564002ad2b9b761c57b36b585f83a162aac01cee972",
+    "images": 0
+  },
+  {
+    "title": "Filmes",
+    "originalTitle": "Filmes.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/filmes-1g-z5i",
+    "notebook": "estudos/estudos-pandas/filmes-1g-z5i/notebook.ipynb",
+    "action": "Explicar diferença entre média de notas e média por filme, exigir número mínimo de avaliações para rankings e preservar créditos/fonte. Concluir interpretação de histogramas/boxplots.",
+    "dependencies": [
+      "matplotlib",
+      "pandas",
+      "seaborn"
+    ],
+    "sourceHash": "39e828c6e09c4000b20064464131618e4af7694e588bf7753fd1b2b42e864d3e",
+    "images": 0
+  },
+  {
+    "title": "Restaurante Serenatto",
+    "originalTitle": "Restaurante_Serenatto.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/restaurante-serenatto-1h3ywd",
+    "notebook": "estudos/estudos-pandas/restaurante-serenatto-1h3ywd/notebook.ipynb",
+    "action": "Localizar dados e fonte; adicionar enunciados e usar soma de valor em vez de soma de todas as colunas; tratar como exercício até existir análise completa.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "e1d59ef9186ac0c00c841357ae0d3b338492e1b77023039af29af4208d5a0d99",
+    "images": 0
+  },
+  {
+    "title": "estudo de exploração",
+    "originalTitle": "estudo de exploração.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/estudo-de-exploracao-1iz7uw",
+    "notebook": "estudos/estudos-pandas/estudo-de-exploracao-1iz7uw/notebook.ipynb",
+    "action": "Dar nome descritivo e explicar Series versus DataFrame e índice; agrupar com outros exercícios iniciais.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "18921b8417dcfea49c47d4d28a229585568becc78be1251ee04e9d55af003811",
+    "images": 0
+  },
+  {
+    "title": "Analise alunos",
+    "originalTitle": "Analise_alunos.ipynb",
+    "status": "Rascunho",
+    "classification": "Rascunho",
+    "path": "em-andamento/desempenho-alunos/analise-alunos-1jgyrf",
+    "notebook": "em-andamento/desempenho-alunos/analise-alunos-1jgyrf/notebook.ipynb",
+    "action": "Localizar ou criar dados sintéticos, restringir replace à coluna Notas, definir escala/regra de bônus e aprovação, corrigir import de pyplot e substituir todas as conclusões de exemplo por cálculos. Revisar identificação de alunos.",
+    "dependencies": [
+      "matplotlib",
+      "pandas"
+    ],
+    "sourceHash": "1287a89a58b4b8d98e475b07503eb5027f627b97e140999e8e05b73480f995f4",
+    "images": 0
+  },
+  {
+    "title": "importacao json teoria",
+    "originalTitle": "importacao_json_teoria.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/importacao-json-teoria-1vo6fl",
+    "notebook": "estudos/estudos-pandas/importacao-json-teoria-1vo6fl/notebook.ipynb",
+    "action": "Acrescentar json_normalize para o exemplo aninhado, mostrar antes/depois e creditar dados Alura.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "9b1b64bdb6c6cc2aea00c1e72f2150c81527045a42e1bae1e16486834c951221",
+    "images": 0
+  },
+  {
+    "title": "Importação e seleção de colunas CSV",
+    "originalTitle": "Analise_mercado.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/importacao-e-selecao-de-colunas-csv-1k8cxl",
+    "notebook": "estudos/estudos-pandas/importacao-e-selecao-de-colunas-csv-1k8cxl/notebook.ipynb",
+    "action": "Renomear para importação/seleção de colunas, contextualizar dados e saída, evitar título que prometa análise ausente.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "d557b0e34899fb87a0d55899b22442888975339b3f13ff75bb20f15a058428ad",
+    "images": 0
+  },
+  {
+    "title": "Importação de abas Excel — emissões de CO₂",
+    "originalTitle": "EMISSÕES_CLIMATICAS.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/importacao-de-abas-excel-emissoes-de-co-1esmxe",
+    "notebook": "estudos/estudos-pandas/importacao-de-abas-excel-emissoes-de-co-1esmxe/notebook.ipynb",
+    "action": "Documentar fonte, engine de Excel e diferença entre abas; renomear como exercício de importação. Para projeto climático, formular e responder perguntas adicionais.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "b04f6951d550820a8a2745d6eb82815097a6e3bf44848c07cceef6a4eb9b488f",
+    "images": 0
+  },
+  {
+    "title": "Analise Games",
+    "originalTitle": "Analise_Games.ipynb",
+    "status": "Rascunho",
+    "classification": "Rascunho",
+    "path": "em-andamento/vendas-videogames/analise-games-1y8onn",
+    "notebook": "em-andamento/vendas-videogames/analise-games-1y8onn/notebook.ipynb",
+    "action": "Localizar CSV, concluir vendas por plataforma/editora/ano e corrigir justificativa: 271/16598 é cerca de 1,63%, não menos de 1%. Registrar impacto da exclusão.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "1ba8a31cae62a7ae40dc2310bf7653d39e41e2d70a8b12bcea41c370fb8434a5",
+    "images": 0
+  },
+  {
+    "title": "Seleção de linhas com pandas",
+    "originalTitle": "teste/estudo.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/selecao-de-linhas-com-pandas-183fjp",
+    "notebook": "estudos/estudos-pandas/selecao-de-linhas-com-pandas-183fjp/notebook.ipynb",
+    "action": "Comparar saída antiga com código atual e executar novamente; incorporar exemplos úteis e substituir o nome teste/estudo que contém barra.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "fdd997ac2f8a2510b7117dfe98985bb4d8b8ff4df8e31d05b5b62a7c2551634e",
+    "images": 0
+  },
+  {
+    "title": "Analise carros",
+    "originalTitle": "Analise carros.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/analise-carros-1xeynw",
+    "notebook": "estudos/estudos-pandas/analise-carros-1xeynw/notebook.ipynb",
+    "action": "Rotular dados fictícios, explicar fórmula e unidades e integrar como exercício de colunas calculadas.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "8592a61a8701dbc267f0ce1038ffd04ee06c08ed715b26d7bb09b3481a66993e",
+    "images": 0
+  },
+  {
+    "title": "Criação e alteração de DataFrames",
+    "originalTitle": "teste.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/criacao-e-alteracao-de-dataframes-1fewbx",
+    "notebook": "estudos/estudos-pandas/criacao-e-alteracao-de-dataframes-1fewbx/notebook.ipynb",
+    "action": "Mover info após criação do DataFrame, deixar execução repetível para insert e inclusão de linhas e adicionar enunciados.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "7c5d22079622cbdb189635569c4e6149ac5d46c34e1d070f68469e68d9396974",
+    "images": 0
+  },
+  {
+    "title": "Estudo recente python",
+    "originalTitle": "Estudo recente python.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/estudo-recente-python-1jroyb",
+    "notebook": "estudos/estudos-pandas/estudo-recente-python-1jroyb/notebook.ipynb",
+    "action": "Explicar rótulos versus posições de índice, remover linhas por índice validado e evitar reaplicar mutações sem reiniciar dados.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "085e0c368ec13c3196a58402c1063b760267e052dd0ed23fc4b1e10915f68fe2",
+    "images": 0
+  },
+  {
+    "title": "Seleção de preços por estabelecimento",
+    "originalTitle": "Produção.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/estudos-pandas/selecao-de-precos-por-estabelecimento-1z5wok",
+    "notebook": "estudos/estudos-pandas/selecao-de-precos-por-estabelecimento-1z5wok/notebook.ipynb",
+    "action": "Renomear, usar seleção por Local em vez de índices rígidos e explicar resultado da filtragem.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "2e52f8bb43c1ded93b07715ee1f9155266440ed09c39e6990c07dee5323d6d38",
+    "images": 0
+  },
+  {
+    "title": "Índice de preços ao produtor — preparação dos dados",
+    "originalTitle": "IBGE.ipynb",
+    "status": "Rascunho",
+    "classification": "Rascunho",
+    "path": "em-andamento/ipp-ibge/indice-de-precos-ao-produtor-preparacao-dos-dados-1gw0aw",
+    "notebook": "em-andamento/ipp-ibge/indice-de-precos-ao-produtor-preparacao-dos-dados-1gw0aw/notebook.ipynb",
+    "action": "Localizar JSON e fonte/tabela/período, tratar códigos vazios e marcadores de ausência antes de conversão; desenvolver séries/gráficos e respostas sobre setores/sazonalidade.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "d289185f0b6b126998b4da4437d396f9267669fd2c7e275183540f6acb66e2b2",
+    "images": 1
+  },
+  {
+    "title": "Solos da Amazônia — exploração inicial",
+    "originalTitle": "Amazonias.ipynb",
+    "status": "Rascunho",
+    "classification": "Rascunho",
+    "path": "em-andamento/solos-amazonia/solos-da-amazonia-exploracao-inicial-1vzus2",
+    "notebook": "em-andamento/solos-amazonia/solos-da-amazonia-exploracao-inicial-1vzus2/notebook.ipynb",
+    "action": "Definir pergunta espacial, recuperar origem/versão/CRS dos dados, validar dicionário contra colunas reais e concluir exploração antes de propor modelo.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "92af3a93f93555c2ddff2c5335186e116aeded02564e3cc55f2a88c1fa2c4c4b",
+    "images": 0
+  },
+  {
+    "title": "Python — exercícios de livro e curso",
+    "originalTitle": "Livro.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/python-exercicios-de-livro-e-curso-1iffw_",
+    "notebook": "estudos/fundamentos-python/python-exercicios-de-livro-e-curso-1iffw_/notebook.ipynb",
+    "action": "Separar por assunto/origem, creditar referências, revisar fatiamentos e documentar erro de chave removida em vez de deixar a execução quebrar. Não chamar de análise financeira.",
+    "dependencies": [
+      "matplotlib",
+      "numpy"
+    ],
+    "sourceHash": "a75c3f2353be9c992e830765ba4d9c1287fd875cc98552bce59b387017c8ed79",
+    "images": 0
+  },
+  {
+    "title": "vetorização comum",
+    "originalTitle": "vetorização comum.ipynb",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/classificacao-imagens/vetorizacao-comum-1gefv-",
+    "notebook": "projetos/classificacao-imagens/vetorizacao-comum-1gefv-/notebook.ipynb",
+    "action": "Integrar com embeddings no mesmo projeto, adicionar imports pyplot/seaborn ausentes, corrigir explicação Z-score versus MinMax e salvar scaler junto do modelo. Documentar origem/divisão das imagens e sementes.",
+    "dependencies": [
+      "joblib",
+      "numpy",
+      "opencv-python",
+      "pandas",
+      "pillow",
+      "scikit-learn"
+    ],
+    "sourceHash": "f4910365de19355a68fa5c7d4b3476d133d46df8ad884e437c07a3fb8d0bd7e6",
+    "images": 0
+  },
+  {
+    "title": "vetorização com embbedings",
+    "originalTitle": "vetorização com embbedings.ipynb",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/classificacao-imagens/vetorizacao-com-embbedings-1o3kam",
+    "notebook": "projetos/classificacao-imagens/vetorizacao-com-embbedings-1o3kam/notebook.ipynb",
+    "action": "Comparar com pixels na mesma divisão, documentar download/pesos e imagens, externalizar caminhos e salvar pipeline de transformação/modelo. Registrar custo e limitações.",
+    "dependencies": [
+      "numpy",
+      "pandas",
+      "scikit-learn",
+      "tensorflow",
+      "tqdm"
+    ],
+    "sourceHash": "7f3d8870be32883313bd71fd00ab61c44a1fa904fe19c3bc08f0b15481df8c0b",
+    "images": 0
+  },
+  {
+    "title": "atividades python alura",
+    "originalTitle": "atividades python alura.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/atividades-python-alura-1tjjeg",
+    "notebook": "estudos/fundamentos-python/atividades-python-alura-1tjjeg/notebook.ipynb",
+    "action": "Preservar créditos, substituir dados pessoais desnecessários por fictícios e separar soluções por tópico com resultados esperados.",
+    "dependencies": [],
+    "sourceHash": "a5af0f09d5b42c80663e8b35d96e1facef94fe84890872b3d1fc4e314b5f63fe",
+    "images": 0
+  },
+  {
+    "title": "LDA Emails Full",
+    "originalTitle": "LDA_Emails_Full.ipynb",
+    "status": "Versão de referência",
+    "classification": "Versão",
+    "path": "arquivo/versoes/topicos-emails/lda-emails-full-1f_tru",
+    "notebook": "arquivo/versoes/topicos-emails/lda-emails-full-1f_tru/notebook.ipynb",
+    "action": "Não usar documentação longa como prova de funcionamento; corrigir imports tqdm/plt e Phrases.Phraser, substituir patches e desinstalações ad hoc por ambiente verificado; incorporar só partes úteis.",
+    "dependencies": [
+      "gensim",
+      "nltk",
+      "pandas",
+      "pyLDAvis"
+    ],
+    "sourceHash": "f4bd7f2d3b06f372b220396a19841e684db6ce7e31b85974c00645aca774b8db",
+    "images": 0
+  },
+  {
+    "title": "LDA Emails Analysis",
+    "originalTitle": "LDA_Emails_Analysis.ipynb",
+    "status": "Versão de referência",
+    "classification": "Versão",
+    "path": "arquivo/versoes/topicos-emails/lda-emails-analysis-1ebeun",
+    "notebook": "arquivo/versoes/topicos-emails/lda-emails-analysis-1ebeun/notebook.ipynb",
+    "action": "Acrescentar imports/recursos ou consolidar com versão principal; corrigir construção de Phraser e tornar independente de estado anterior.",
+    "dependencies": [
+      "gensim"
+    ],
+    "sourceHash": "5266a25146fc484e79bdd4e7bd49c83c93a9cb4e5f19df7edbf22bcb11bd107c",
+    "images": 0
+  },
+  {
+    "title": "Atividade 2 - Robert de Jesus",
+    "originalTitle": "Atividade 2 - Robert de Jesus.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-pln/atividade-2-robert-de-jesus-1q-9fe",
+    "notebook": "estudos/fundamentos-pln/atividade-2-robert-de-jesus-1q-9fe/notebook.ipynb",
+    "action": "Escolher esta como representante editorial, revisar definição de n-gramas, numeração e efeito de minúsculas/limpeza sobre NER; documentar modelo pt_core_news_sm e dependências.",
+    "dependencies": [
+      "nltk"
+    ],
+    "sourceHash": "3c91ec635deabb7c0697ee724d535dad2d8b8d9acd2572e25508fd91ad833e77",
+    "images": 0
+  },
+  {
+    "title": "Atividade Mineração de Texto Robert",
+    "originalTitle": "Atividade Mineração de Texto Robert.ipynb",
+    "status": "Versão de referência",
+    "classification": "Versão",
+    "path": "arquivo/versoes/arquivo-revisao/atividade-mineracao-de-texto-robert-1hjdz5",
+    "notebook": "arquivo/versoes/arquivo-revisao/atividade-mineracao-de-texto-robert-1hjdz5/notebook.ipynb",
+    "action": "Preservar diferença real de tokenização; incorporar comparação se útil e consolidar em um notebook didático. Não é duplicata exata.",
+    "dependencies": [
+      "nltk"
+    ],
+    "sourceHash": "66e2ed0f72519b28197d1ff58b3df2963a4ff44cc950e045ed9d079726a366d9",
+    "images": 0
+  },
+  {
+    "title": "Testes curso python google",
+    "originalTitle": "Testes curso python google",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/testes-curso-python-google-1zd1nl",
+    "notebook": "estudos/fundamentos-python/testes-curso-python-google-1zd1nl/notebook.ipynb",
+    "action": "Dividir por tópicos, creditar curso e corrigir traduçao_erro comparando codigo_erro em vez do próprio nome da função. Separar perguntas e soluções.",
+    "dependencies": [
+      "pandas"
+    ],
+    "sourceHash": "1f355c6347e781b79c6ccdf3993f2f2e4f2a15679c2a353d4c381388c218906d",
+    "images": 0
+  },
+  {
+    "title": "Atividade 1 Jairo AP SUPERVISIONADO",
+    "originalTitle": "Atividade 1 Jairo AP SUPERVISIONADO.ipynb",
+    "status": "Rascunho",
+    "classification": "Rascunho",
+    "path": "em-andamento/indicadores-diabetes/atividade-1-jairo-ap-supervisionado-1qdrbp",
+    "notebook": "em-andamento/indicadores-diabetes/atividade-1-jairo-ap-supervisionado-1qdrbp/notebook.ipynb",
+    "action": "Rever remoção de valores válidos nas colunas de dias; documentar dataset e critérios. Se desenvolver classificação, dividir antes de ajustes e aplicar reamostragem somente no treino; concluir métricas/limitações.",
+    "dependencies": [
+      "imbalanced-learn",
+      "matplotlib",
+      "pandas",
+      "seaborn"
+    ],
+    "sourceHash": "ba4c004a55d5f1df32e32c4901d075412cbbb9831d7d588996292a8f343154d9",
+    "images": 0
+  },
+  {
+    "title": "Tuplas — exercícios introdutórios",
+    "originalTitle": "Livro analise de dados.ipynb",
+    "status": "Estudo",
+    "classification": "Estudo",
+    "path": "estudos/fundamentos-python/tuplas-exercicios-introdutorios-1qwdbs",
+    "notebook": "estudos/fundamentos-python/tuplas-exercicios-introdutorios-1qwdbs/notebook.ipynb",
+    "action": "Incorporar ao módulo de coleções, com crédito ao livro; não publicar repositório independente.",
+    "dependencies": [],
+    "sourceHash": "f866d26f8e49cbf892070429309824ba38e02abbc01532db628d368eab5238ae",
+    "images": 0
+  },
+  {
+    "title": "APRIORI",
+    "originalTitle": "APRIORI",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/ideb-regiao-norte/apriori-1hg841",
+    "notebook": "projetos/ideb-regiao-norte/apriori-1hg841/notebook.ipynb",
+    "action": "Candidata a fonte junto do Trabalho Não Supervisionado. Separar exploração/modelagem/regras, remover instalação experimental do fluxo principal, corrigir URL em célula de código, distinguir anos iniciais/finais e município/escola; preservar anomalias por rede e município em colunas diferentes (hoje Anomalia é zerada). Validar tratamento de nulos antes de conclusões.",
+    "dependencies": [
+      "ipython",
+      "matplotlib",
+      "mlxtend",
+      "numpy",
+      "pandas",
+      "pycaret",
+      "scikit-learn",
+      "scipy",
+      "seaborn"
+    ],
+    "sourceHash": "30e8109a6cfdb955dc50a053d9cc595a4cd6c34e6cf36f258522a12d1c28580f",
+    "images": 1
+  },
+  {
+    "title": "desafio ciia",
+    "originalTitle": "desafio ciia.ipynb",
+    "status": "Em andamento",
+    "classification": "Candidato",
+    "path": "projetos/classificacao-tweets/desafio-ciia-1q-jic",
+    "notebook": "projetos/classificacao-tweets/desafio-ciia-1q-jic/notebook.ipynb",
+    "action": "Criar validação estratificada antes de ajustar TF-IDF, reportar F1 e matriz de confusão fora do treino; preservar IDs e cardinalidade de test/submission, gerar arquivo de envio e documentar fonte/regras. Corrigir texto: stopwords efetivamente em inglês.",
+    "dependencies": [
+      "nltk",
+      "pandas",
+      "scikit-learn",
+      "unidecode"
+    ],
+    "sourceHash": "2eb8fb19e64ac157e6b152a9743dd5b5949e457ee146029820d77d62673200d1",
+    "images": 0
+  }
+]
