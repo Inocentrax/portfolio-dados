@@ -1,0 +1,60 @@
+{
+  "dataset": "sklearn.datasets.load_digits",
+  "rows": 1797,
+  "features": 64,
+  "train_rows": 1437,
+  "test_rows": 360,
+  "seed": 42,
+  "epochs": 20,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "test_indices_sha256": "ea8278c3845cc25e90393b2ec98428a6f2446492e5288e4097e7128f96281d1d",
+  "metrics_test": {
+    "Baseline": {
+      "accuracy": 0.1,
+      "f1_macro": 0.01818181818181818
+    },
+    "Logística": {
+      "accuracy": 0.9722222222222222,
+      "f1_macro": 0.9719402197048348
+    },
+    "MLP": {
+      "accuracy": 0.9638888888888889,
+      "f1_macro": 0.9634615043139517
+    }
+  },
+  "loss_history": [
+    2.201297149777661,
+    1.8466037482790592,
+    1.2647740090150508,
+    0.7033048079050326,
+    0.40954925056622105,
+    0.2750812350003024,
+    0.2001422110040236,
+    0.1552436194676198,
+    0.12459895665457286,
+    0.10346057703854644,
+    0.08734848234665087,
+    0.07402688077674945,
+    0.06387695714976527,
+    0.05475240891375472,
+    0.048152731740607434,
+    0.04220710608592321,
+    0.03754930468839992,
+    0.03292186760843298,
+    0.029651022413142786,
+    0.026015586194452014
+  ],
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "torch": "2.15.0+cpu",
+    "matplotlib": "3.11.2"
+  },
+  "limitations": [
+    "Uma única divisão estratificada.",
+    "Sem busca de hiperparâmetros ou intervalos de confiança.",
+    "Imagens 8x8 do Digits; não mede desempenho em imagens externas."
+  ]
+}

@@ -15,7 +15,7 @@ def slug(value):
 
 
 def render(entries):
-    groups = [('Em andamento', 'Projetos em andamento'), ('Rascunho', 'Rascunhos e ideias'), ('Estudo', 'Estudos por assunto'), ('Versão de referência', 'Versões de referência'), ('Concluído', 'Projetos concluídos')]
+    groups = [('Concluído', 'Demonstrações concluídas e verificadas'), ('Em andamento', 'Projetos em andamento'), ('Rascunho', 'Rascunhos e ideias'), ('Estudo', 'Estudos por assunto'), ('Versão de referência', 'Versões de referência')]
     text = '# Catálogo de projetos e estudos\n\n[Início](README.md) · [Próximos passos](PROXIMOS_PASSOS.md) · [Fluxo de trabalho](COMO_TRABALHAR.md)\n\nO status de cada entrada informa o estágio real do trabalho.\n'
     for status, title in groups:
         selected = [e for e in entries if e['status'] == status]

@@ -1,16 +1,11 @@
-# Dados de entrada
+# Base de anúncios de aluguel
 
-O notebook original usa as entradas abaixo. Os datasets externos não foram copiados automaticamente.
+Fonte utilizada no material Alura: pandas-conhecendo-a-biblioteca, arquivo base-de-dados/aluguel.csv.
 
-```python
-url = "https://raw.githubusercontent.com/alura-cursos/pandas-conhecendo-a-biblioteca/main/base-de-dados/aluguel.csv"
-pd.read_csv(url)
-dados = pd.read_csv(url, sep=";")
-url ='https://raw.githubusercontent.com/alura-cursos/pandas-conhecendo-a-biblioteca/main/base-de-dados/aluguel.csv'
-analise_imobiliaria = pd.read_csv(url, sep=";")
-cop_dados = pd.read_csv(url, sep=";")
-```
+- [CSV na revisão verificada](https://raw.githubusercontent.com/alura-cursos/pandas-conhecendo-a-biblioteca/1c1b10f2ea11e6e8b0826ac70e254660d248eba3/base-de-dados/aluguel.csv).
+- Revisão Git: 1c1b10f2ea11e6e8b0826ac70e254660d248eba3.
+- SHA-256: 49a9840ce71dc55d6609f6c8938800cd3a0ea481a877013daf18c4b727bbca13.
+- Leitura: CSV separado por ponto e vírgula.
+- 32960 linhas; campos Tipo, Bairro, Quartos, Vagas, Suites, Area, Valor, Condominio e IPTU.
 
-Se o caminho começa por /content ou MyDrive, ele pertence ao ambiente original. Obtenha o arquivo pela fonte do projeto, confirme permissão de uso e ajuste o caminho local antes de executar. Não envie dados pessoais ou credenciais ao repositório.
-
-Registrar: fonte e link, data/versão, licença, unidade de observação e colunas obrigatórias.
+O script verifica o conteúdo antes da análise e não redistribui a base nesta pasta. O cache local data_cache/ está no gitignore. O período e a representatividade precisam ser confirmados na origem; os resultados descrevem apenas esse arquivo. Os custos ausentes permanecem desconhecidos.

@@ -2,10 +2,17 @@
 
 Use este arquivo para retomar o trabalho sem abrir vários Colabs. Cada entrada aponta para o notebook e sua lista específica de pendências.
 
+## Entregas verificadas
+
+- [Classificação de dígitos](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/): experimento, métricas e gráficos publicados.
+- [Anúncios de aluguel](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/): recorte, tabelas e figuras publicados.
+
+[Quadro e tarefas](QUADRO.md) · [Bases encontradas no Drive](docs/BASES_NO_DRIVE.md)
+
 ## Ordem sugerida
 
-1. Classificação de dígitos: validar a atividade sklearn/PyTorch.
-2. Coleta Bacen e análise imobiliária: fechar execução e conclusões.
+1. Dígitos: evoluções opcionais após a demonstração já verificada.
+2. Coleta Bacen: fechar execução; análise imobiliária já tem demonstração verificada.
 3. Steam e classificação de imagens: revisar métricas e origem dos dados.
 4. Tweets: avaliar fora do treino.
 5. IDEB e tópicos de e-mails: consolidar pipeline e ambiente.
@@ -20,12 +27,6 @@ Use este arquivo para retomar o trabalho sem abrir vários Colabs. Cada entrada 
 - [ ] Explicar série, unidade e intervalo (o nome sugere 2023 inteiro, mas a consulta é apenas janeiro); parametrizar datas, tratar falha HTTP e timeout, substituir caminho /content e tornar a gravação repetível (modo xb falha se o arquivo já existir). Acrescentar análise simples ou apresentá-lo como projeto de coleta.
 - [ ] Registrar como reproduzir e os resultados verificados.
 
-### [atividade pratica 01 sklearn pytorch basics ](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/)
-
-**Status:** Em andamento.
-
-- [ ] Priorizar como base principal. Trocar linguagem de entrega escolar por narrativa do experimento, preservar créditos, remover TODOs já resolvidos, registrar versões e sementes e escrever a comparação final baseada nas métricas de teste. Verificar execução limpa.
-- [ ] Registrar como reproduzir e os resultados verificados.
 
 ### [Estudo sobre SVC E LinearSvc](projetos/estudos-machine-learning/estudo-sobre-svc-e-linearsvc-1b8yjj/)
 
@@ -48,12 +49,6 @@ Use este arquivo para retomar o trabalho sem abrir vários Colabs. Cada entrada 
 - [ ] Localizar CSV e data de extração, formular pergunta geográfica adequada a categorias, criar agregações/gráficos por UF e concluir antes de promover a projeto.
 - [ ] Registrar como reproduzir e os resultados verificados.
 
-### [Projeto imobiliaria](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/)
-
-**Status:** Em andamento.
-
-- [ ] Consolidar em único fluxo sem mutações contraditórias; justificar imputação por bairro/área; corrigir comparação de Series em cop_dados[Valor] == maior_valor e distinguir revisitação de resultado final. Gerar conclusões e CSVs com extensão.
-- [ ] Registrar como reproduzir e os resultados verificados.
 
 ### [Analise de Topicos em Emails](projetos/topicos-emails/analise-de-topicos-em-emails-1badcb/)
 

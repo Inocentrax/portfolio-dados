@@ -16,14 +16,27 @@ Este repositório é o ponto central para encontrar, continuar e documentar meus
 | Entender versões anteriores | [Migração](docs/MIGRACAO.md) e [arquivo](arquivo/) |
 | Começar um trabalho novo | [Fluxo de trabalho e modelos](COMO_TRABALHAR.md) |
 
-## Por onde começar
+## Demonstrações com execução verificada
+
+| Projeto | Status | Material |
+|---|---|---|
+| [atividade pratica 01 sklearn pytorch basics ](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
+| [Projeto imobiliaria](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
+
+![Comparação de modelos em Digits](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/assets/comparacao-modelos.png)
+
+![Análise de aluguéis](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/assets/aluguel-por-bairro.png)
+
+[Quadro de continuidade](QUADRO.md) · [Bases no Drive](docs/BASES_NO_DRIVE.md)
+
+## Outros trabalhos para explorar
 
 | Conteúdo | Status | O que falta |
 |---|---|---|
 | [bacen selic 2023 ](projetos/coleta-dados-bacen/bacen-selic-2023-11k0ur/) | Em andamento | Explicar série, unidade e intervalo (o nome sugere 2023 inteiro, mas a consulta é apenas janeiro) |
-| [atividade pratica 01 sklearn pytorch basics  ](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/) | Em andamento | Priorizar como base principal |
+| [atividade pratica 01 sklearn pytorch basics ](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
 | [Estudo sobre SVC E LinearSvc ](projetos/estudos-machine-learning/estudo-sobre-svc-e-linearsvc-1b8yjj/) | Em andamento | Documentar dados e créditos, transformar comparação em tabela com métricas e tempo, fixar ano de referência para idade do veículo (datetime |
-| [Projeto imobiliaria ](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Em andamento | Consolidar em único fluxo sem mutações contraditórias |
+| [Projeto imobiliaria](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
 | [Analise de Topicos em Emails ](projetos/topicos-emails/analise-de-topicos-em-emails-1badcb/) | Em andamento | Preservar três autores |
 | [Trabalho Aprendizado Não Supervisionado ](projetos/ideb-regiao-norte/trabalho-aprendizado-nao-supervisionado-1z1dwg/) | Em andamento | Comparar com APRIORI para formar versão canônica |
 | [Projeto Steam Games ](projetos/analise-jogos-steam/projeto-steam-games-1jnxam/) | Em andamento | Prioridade de portfólio após revisão: localizar fonte/licença/data do CSV, distinguir playtime de número de jogadores e owners de vendas |
@@ -33,10 +46,11 @@ Este repositório é o ponto central para encontrar, continuar e documentar meus
 
 - **Estudo:** 39 notebooks.
 - **Versão de referência:** 11 notebooks.
-- **Em andamento:** 12 notebooks.
+- **Em andamento:** 10 notebooks.
+- **Concluído no escopo demonstrativo:** 2 notebooks.
 - **Rascunho:** 7 notebooks.
 
-A organização não transforma um rascunho em projeto concluído. Cada pasta informa o conteúdo disponível, as dependências e o que precisa ser verificado. Os notebooks importados tiveram outputs antigos retirados para evitar confundir resultados de sessões passadas com execução validada.
+Cada pasta informa o conteúdo disponível, as dependências e o que precisa ser verificado. As duas demonstrações em destaque foram executadas e têm resultados próprios; os demais trabalhos mantêm seus status e pendências. Outputs antigos das importações não são tratados como validação.
 
 ## Outros projetos no GitHub
 

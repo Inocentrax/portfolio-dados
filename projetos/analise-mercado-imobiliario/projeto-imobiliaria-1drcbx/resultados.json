@@ -1,0 +1,63 @@
+{
+  "source_url": "https://raw.githubusercontent.com/alura-cursos/pandas-conhecendo-a-biblioteca/1c1b10f2ea11e6e8b0826ac70e254660d248eba3/base-de-dados/aluguel.csv",
+  "dataset_sha256": "49a9840ce71dc55d6609f6c8938800cd3a0ea481a877013daf18c4b727bbca13",
+  "original_rows": 32960,
+  "apartment_rows": 19532,
+  "valid_apartments": 19525,
+  "excluded_apartments": 7,
+  "missing_by_column": {
+    "Tipo": 0,
+    "Bairro": 0,
+    "Quartos": 0,
+    "Vagas": 0,
+    "Suites": 0,
+    "Area": 0,
+    "Valor": 17,
+    "Condominio": 4093,
+    "IPTU": 10237
+  },
+  "median_rent": 2700.0,
+  "mean_rent": 4744.614647887324,
+  "median_rent_per_m2": 30.232558139534884,
+  "neighborhoods_with_30_ads": 52,
+  "top_neighborhoods_by_median": [
+    {
+      "bairro": "Leblon",
+      "anuncios": 1241,
+      "aluguel_mediano": 7000.0
+    },
+    {
+      "bairro": "Ipanema",
+      "anuncios": 1768,
+      "aluguel_mediano": 7000.0
+    },
+    {
+      "bairro": "Lagoa",
+      "anuncios": 487,
+      "aluguel_mediano": 5500.0
+    },
+    {
+      "bairro": "São Conrado",
+      "anuncios": 233,
+      "aluguel_mediano": 5500.0
+    },
+    {
+      "bairro": "Península",
+      "anuncios": 40,
+      "aluguel_mediano": 5050.0
+    }
+  ],
+  "known_rent_plus_condo_rows": 18780,
+  "environment": {
+    "python": "3.12.14",
+    "pandas": "3.1.1",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2"
+  },
+  "limitations": [
+    "Anúncios não são contratos fechados ou imóveis únicos.",
+    "Período e representatividade devem ser confirmados na fonte.",
+    "Comparação por bairro sem controlar área, quartos ou localização fina.",
+    "Não é um modelo de precificação nem recomendação de investimento."
+  ]
+}

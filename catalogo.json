@@ -59,11 +59,11 @@
   {
     "title": "atividade pratica 01 sklearn pytorch basics ",
     "originalTitle": "atividade_pratica_01_sklearn_pytorch_basics .ipynb",
-    "status": "Em andamento",
-    "classification": "Candidato",
+    "status": "Concluído",
+    "classification": "Demonstração verificada",
     "path": "projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r",
     "notebook": "projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/notebook.ipynb",
-    "action": "Priorizar como base principal. Trocar linguagem de entrega escolar por narrativa do experimento, preservar créditos, remover TODOs já resolvidos, registrar versões e sementes e escrever a comparação final baseada nas métricas de teste. Verificar execução limpa.",
+    "action": "Evolução opcional: avaliar estabilidade por sementes, validação cruzada e imagens externas.",
     "dependencies": [
       "matplotlib",
       "numpy",
@@ -71,7 +71,8 @@
       "torch"
     ],
     "sourceHash": "757e96082a1adeb4874dfde9357470c2c0b34279d4fef2464481985e6ff5da9b",
-    "images": 0
+    "images": 0,
+    "verified": "2026-11-15"
   },
   {
     "title": "Deep Learning Digits",
@@ -396,16 +397,17 @@
   {
     "title": "Projeto imobiliaria",
     "originalTitle": "Projeto_imobiliaria",
-    "status": "Em andamento",
-    "classification": "Candidato",
+    "status": "Concluído",
+    "classification": "Demonstração verificada",
     "path": "projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx",
     "notebook": "projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/notebook.ipynb",
-    "action": "Consolidar em único fluxo sem mutações contraditórias; justificar imputação por bairro/área; corrigir comparação de Series em cop_dados[Valor] == maior_valor e distinguir revisitação de resultado final. Gerar conclusões e CSVs com extensão.",
+    "action": "Evolução opcional: controlar área e quartos e documentar o período se disponível na fonte.",
     "dependencies": [
       "pandas"
     ],
     "sourceHash": "eec2bce60da94e5c15140c6ae233e4b9471288b6a76194daac4d9f63255fe14d",
-    "images": 0
+    "images": 0,
+    "verified": "2026-11-15"
   },
   {
     "title": "Analise de Topicos em Emails",

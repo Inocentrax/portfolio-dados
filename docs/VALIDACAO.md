@@ -24,3 +24,16 @@ O exemplo revisado foi executado com os dados versionados sem nomes: 18 registro
 ## Limites
 
 A publicação organiza o trabalho e torna seus próximos passos visíveis. Ela não certifica que todos os modelos estão corretos nem transforma trabalhos incompletos em concluídos. Conclusões de dados externos, licenças, compatibilidade de ML e resultados completos serão verificados ao desenvolver cada projeto.
+
+## Segunda etapa — demonstrações verificadas
+
+Em 15/11/2026 foram executados os scripts completos de classificação de dígitos e análise imobiliária. Os requisitos exatos, parâmetros, resultados e limitações estão nas respectivas pastas.
+
+- Dígitos: divisão estratificada sem sobreposição, scaler ajustado no treino, baseline, logística e MLP avaliados nas 360 amostras reservadas; métricas finitas e no intervalo esperado.
+- Aluguéis: revisão fixa da base com hash verificado; filtros de área/aluguel positivos, ausências preservadas e rankings com suporte mínimo.
+- Cinco figuras geradas e inspecionadas visualmente.
+- As bases de terceiros encontradas no Drive não tiveram sua visibilidade alterada e não foram copiadas em massa para o GitHub.
+
+O ambiente adicional de execução foi instalado em uma pasta isolada do workspace. Dados em cache e pacotes não fazem parte da publicação.
+
+As versões finais dos dois notebooks também foram executadas integralmente, além dos scripts equivalentes; os 70 notebooks passaram na validação de esquema nbformat.
