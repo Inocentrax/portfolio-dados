@@ -8,8 +8,8 @@ O status de cada entrada informa o estágio real do trabalho.
 
 | Conteúdo | Status | Próximo passo |
 |---|---|---|
-| [atividade pratica 01 sklearn pytorch basics ](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/) | Concluído | Evolução opcional: avaliar estabilidade por sementes, validação cruzada e imagens externas |
-| [Projeto imobiliaria](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Concluído | Evolução opcional: controlar área e quartos e documentar o período se disponível na fonte |
+| [Classificação de dígitos — logística e MLP](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/) | Concluído | Evolução opcional: avaliar estabilidade por sementes, validação cruzada e imagens externas |
+| [Anúncios de aluguel — análise exploratória](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Concluído | Evolução opcional: controlar área e quartos e documentar o período se disponível na fonte |
 
 ## Projetos em andamento (10)
 

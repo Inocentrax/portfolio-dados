@@ -20,8 +20,8 @@ Este repositório é o ponto central para encontrar, continuar e documentar meus
 
 | Projeto | Status | Material |
 |---|---|---|
-| [atividade pratica 01 sklearn pytorch basics ](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
-| [Projeto imobiliaria](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
+| [Classificação de dígitos — logística e MLP](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
+| [Anúncios de aluguel — análise exploratória](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
 
 ![Comparação de modelos em Digits](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/assets/comparacao-modelos.png)
 
@@ -34,9 +34,9 @@ Este repositório é o ponto central para encontrar, continuar e documentar meus
 | Conteúdo | Status | O que falta |
 |---|---|---|
 | [bacen selic 2023 ](projetos/coleta-dados-bacen/bacen-selic-2023-11k0ur/) | Em andamento | Explicar série, unidade e intervalo (o nome sugere 2023 inteiro, mas a consulta é apenas janeiro) |
-| [atividade pratica 01 sklearn pytorch basics ](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
+| [Classificação de dígitos — logística e MLP](projetos/classificacao-digitos/atividade-pratica-01-sklearn-pytorch-basics-1y956r/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
 | [Estudo sobre SVC E LinearSvc ](projetos/estudos-machine-learning/estudo-sobre-svc-e-linearsvc-1b8yjj/) | Em andamento | Documentar dados e créditos, transformar comparação em tabela com métricas e tempo, fixar ano de referência para idade do veículo (datetime |
-| [Projeto imobiliaria](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
+| [Anúncios de aluguel — análise exploratória](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Concluído | Demonstração executada, com gráficos e resultados disponíveis |
 | [Analise de Topicos em Emails ](projetos/topicos-emails/analise-de-topicos-em-emails-1badcb/) | Em andamento | Preservar três autores |
 | [Trabalho Aprendizado Não Supervisionado ](projetos/ideb-regiao-norte/trabalho-aprendizado-nao-supervisionado-1z1dwg/) | Em andamento | Comparar com APRIORI para formar versão canônica |
 | [Projeto Steam Games ](projetos/analise-jogos-steam/projeto-steam-games-1jnxam/) | Em andamento | Prioridade de portfólio após revisão: localizar fonte/licença/data do CSV, distinguir playtime de número de jogadores e owners de vendas |
