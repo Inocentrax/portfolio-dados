@@ -30,6 +30,15 @@ Este repositório é o ponto central para encontrar, continuar e documentar meus
 
 [Quadro de continuidade](QUADRO.md) · [Bases no Drive](docs/BASES_NO_DRIVE.md)
 
+## Projetos integrados ao portfólio
+
+| Projeto | Tipo e estágio |
+|---|---|
+| [Vendas da Amazon na Índia](projetos/vendas-amazon-india/) | Análise de dados em revisão |
+| [Extinção animal — busca de espécies](projetos/extincao-animal/) | Aplicação JavaScript de estudo, com base editorial em revisão |
+
+Código, documentação e próximos passos ficam nas pastas acima. Além dos 69 notebooks, o catálogo inclui estes dois projetos com arquivos Python e web.
+
 ## Outros trabalhos para explorar
 
 | Conteúdo | Status | O que falta |
@@ -57,12 +66,10 @@ Cada pasta informa o conteúdo disponível, as dependências e o que precisa ser
 
 | Projeto | O que faz |
 |---|---|
-| [Vendas da Amazon na Índia](https://github.com/Inocentrax/Amazon-Vendas-India) | Análise regional de vendas em Python |
 | [BB Digital Week — extração](https://github.com/Inocentrax/Cronograma-BB-Digital-Week-2024) | PDF → Excel para organizar programação |
 | [BB Digital Week — agenda](https://github.com/Inocentrax/Site-BB-digital-Week-2024) | Consulta web com filtros e JSON |
 | [Quiz de estatística](https://github.com/Inocentrax/gamificacaoestatistica) | Jogo educacional com perguntas e personagens |
 | [Pokédex](https://github.com/Inocentrax/js-developer-pokedex) | JavaScript e consumo de API |
-| [Extinção animal](https://github.com/Inocentrax/Animais-Extintos) | Busca textual em uma base editorial em revisão |
 | [Java básico](https://github.com/Inocentrax/dio-trilha-java-basico) | Exercícios de tipos, operadores e objetos |
 | [Open source — DIO](https://github.com/Inocentrax/dio-lab-open-source) | Laboratório de contribuição |
 | [Second Mind AI](https://github.com/Inocentrax/miniguia-estudos-notebooklm) | Guia de estudos e reflexões sobre IA |

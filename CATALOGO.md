@@ -12,7 +12,7 @@ O status de cada entrada informa o estágio real do trabalho.
 | [Anúncios de aluguel — análise exploratória](projetos/analise-mercado-imobiliario/projeto-imobiliaria-1drcbx/) | Concluído | Evolução opcional: controlar área e quartos e documentar o período se disponível na fonte |
 | [Vendas de videogames — plataformas e regiões](projetos/vendas-videogames/analise-games-1y8onn/) | Concluído | Evolução opcional: comparar cobertura histórica e investigar títulos homônimos e diferenças regionais |
 
-## Projetos em andamento (10)
+## Projetos em andamento (11)
 
 | Conteúdo | Status | Próximo passo |
 |---|---|---|
@@ -26,6 +26,7 @@ O status de cada entrada informa o estágio real do trabalho.
 | [vetorização com embbedings](projetos/classificacao-imagens/vetorizacao-com-embbedings-1o3kam/) | Em andamento | Comparar com pixels na mesma divisão, documentar download/pesos e imagens, externalizar caminhos e salvar pipeline de transformação/modelo |
 | [APRIORI](projetos/ideb-regiao-norte/apriori-1hg841/) | Em andamento | Candidata a fonte junto do Trabalho Não Supervisionado |
 | [desafio ciia](projetos/classificacao-tweets/desafio-ciia-1q-jic/) | Em andamento | Criar validação estratificada antes de ajustar TF-IDF, reportar F1 e matriz de confusão fora do treino |
+| [Vendas da Amazon na Índia](projetos/vendas-amazon-india/) | Em andamento | Validar tratamento de nulos, cancelamentos e unidades monetárias |
 
 ## Rascunhos e ideias (6)
 
@@ -38,7 +39,7 @@ O status de cada entrada informa o estágio real do trabalho.
 | [Solos da Amazônia — exploração inicial](em-andamento/solos-amazonia/solos-da-amazonia-exploracao-inicial-1vzus2/) | Rascunho | Definir pergunta espacial, recuperar origem/versão/CRS dos dados, validar dicionário contra colunas reais e concluir exploração antes de propor modelo |
 | [Atividade 1 Jairo AP SUPERVISIONADO](em-andamento/indicadores-diabetes/atividade-1-jairo-ap-supervisionado-1qdrbp/) | Rascunho | Rever remoção de valores válidos nas colunas de dias |
 
-## Estudos por assunto (39)
+## Estudos por assunto (40)
 
 | Conteúdo | Status | Próximo passo |
 |---|---|---|
@@ -81,6 +82,7 @@ O status de cada entrada informa o estágio real do trabalho.
 | [Atividade 2 - Robert de Jesus](estudos/fundamentos-pln/atividade-2-robert-de-jesus-1q-9fe/) | Estudo | Escolher esta como representante editorial, revisar definição de n-gramas, numeração e efeito de minúsculas/limpeza sobre NER |
 | [Testes curso python google](estudos/fundamentos-python/testes-curso-python-google-1zd1nl/) | Estudo | Dividir por tópicos, creditar curso e corrigir traduçao_erro comparando codigo_erro em vez do próprio nome da função |
 | [Tuplas — exercícios introdutórios](estudos/fundamentos-python/tuplas-exercicios-introdutorios-1qwdbs/) | Estudo | Incorporar ao módulo de coleções, com crédito ao livro |
+| [Extinção animal — busca de espécies](projetos/extincao-animal/) | Estudo | Revisar nomes, referências e estado de conservação |
 
 ## Versões de referência (11)
 

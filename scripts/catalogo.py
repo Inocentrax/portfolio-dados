@@ -37,11 +37,16 @@ def check(entries):
         folder = ROOT / e['path']
         folder.resolve().relative_to(ROOT.resolve())
         assert (folder / 'README.md').is_file(), f'README ausente: {folder}'
+        if not e.get('notebook'):
+            entrypoint = ROOT / e['entrypoint']
+            entrypoint.resolve().relative_to(ROOT.resolve())
+            assert entrypoint.is_file(), f'Arquivo principal ausente: {entrypoint}'
+            continue
         nb_path = ROOT / e['notebook']
         nb_path.resolve().relative_to(ROOT.resolve())
         nb = json.loads(nb_path.read_text(encoding='utf-8'))
         assert nb['nbformat'] == 4 and isinstance(nb['cells'], list)
-    print(f'{len(entries)} entradas verificadas: pastas, READMEs e notebooks presentes.')
+    print(f'{len(entries)} entradas verificadas: pastas, READMEs e arquivos principais presentes.')
 
 
 def main():

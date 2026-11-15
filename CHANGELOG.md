@@ -24,3 +24,7 @@ A verificação realizada para esta migração está descrita em docs/VALIDACAO.
 - Base enviada e associada a Analise_Games.ipynb após conferência de colunas, linhas e checksum.
 - Exploração concluída com quatro gráficos, seis tabelas, script e notebook reproduzíveis.
 - Projeto promovido de rascunho para demonstração concluída, com orientação no endereço anterior.
+
+## Integração de projetos — 2026-11-15
+
+Amazon-Vendas-India e Animais-Extintos integrados com código, contexto original, créditos e próximos passos. Repositórios anteriores mantidos como histórico com aviso de continuidade. Catálogo passa a aceitar projetos com arquivo principal Python ou HTML, além de notebooks.

@@ -11,3 +11,8 @@ Este quadro em Markdown funciona com as issues existentes. O GitHub Project nati
 - **Concluído:** [Vendas de videogames](projetos/vendas-videogames/analise-games-1y8onn/), com o arquivo enviado e conferido.
 
 Atualize as issues ao concluir etapas e mova seus links entre as colunas. Rascunhos continuam no [catálogo](CATALOGO.md), sem precisar criar várias cópias do mesmo notebook.
+
+## Projetos integrados de outros repositórios
+
+- [Vendas da Amazon na Índia](projetos/vendas-amazon-india/): Em andamento. Validar tratamento de nulos, cancelamentos e unidades monetárias; salvar resultados reproduzíveis.
+- [Extinção animal — busca de espécies](projetos/extincao-animal/): Estudo. Revisar nomes, referências e estado de conservação; melhorar acessibilidade e pesquisa com acentos.

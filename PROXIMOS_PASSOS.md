@@ -140,3 +140,11 @@ Use este arquivo para retomar o trabalho sem abrir vários Colabs. Cada entrada 
 ## Estudos
 
 Os estudos têm tarefas específicas nos respectivos READMEs. Use o [catálogo](CATALOGO.md) para selecionar um assunto. Não é necessário concluir todos para desenvolver um projeto.
+
+### [Vendas da Amazon na Índia](projetos/vendas-amazon-india/)
+
+- [ ] Validar tratamento de nulos, cancelamentos e unidades monetárias; salvar resultados reproduzíveis.
+
+### [Extinção animal — busca de espécies](projetos/extincao-animal/)
+
+- [ ] Revisar nomes, referências e estado de conservação; melhorar acessibilidade e pesquisa com acentos.

@@ -21,3 +21,8 @@
 - [vetorização com embbedings](../projetos/classificacao-imagens/vetorizacao-com-embbedings-1o3kam/): Comparar com pixels na mesma divisão, documentar download/pesos e imagens, externalizar caminhos e salvar pipeline de transformação/modelo. Registrar custo e limitações.
 - [APRIORI](../projetos/ideb-regiao-norte/apriori-1hg841/): Candidata a fonte junto do Trabalho Não Supervisionado. Separar exploração/modelagem/regras, remover instalação experimental do fluxo principal, corrigir URL em célula de código, distinguir anos iniciais/finais e município/escola; preservar anomalias por rede e município em colunas diferentes (hoje Anomalia é zerada). Validar tratamento de nulos antes de conclusões.
 - [desafio ciia](../projetos/classificacao-tweets/desafio-ciia-1q-jic/): Criar validação estratificada antes de ajustar TF-IDF, reportar F1 e matriz de confusão fora do treino; preservar IDs e cardinalidade de test/submission, gerar arquivo de envio e documentar fonte/regras. Corrigir texto: stopwords efetivamente em inglês.
+
+## Projetos integrados de outros repositórios
+
+- [Vendas da Amazon na Índia](vendas-amazon-india/): Em andamento. Validar tratamento de nulos, cancelamentos e unidades monetárias; salvar resultados reproduzíveis.
+- [Extinção animal — busca de espécies](extincao-animal/): Estudo. Revisar nomes, referências e estado de conservação; melhorar acessibilidade e pesquisa com acentos.

@@ -1016,5 +1016,32 @@
     ],
     "sourceHash": "2eb8fb19e64ac157e6b152a9743dd5b5949e457ee146029820d77d62673200d1",
     "images": 0
+  },
+  {
+    "title": "Vendas da Amazon na Índia",
+    "originalTitle": "Amazon-Vendas-India",
+    "status": "Em andamento",
+    "classification": "Projeto integrado de repositório",
+    "path": "projetos/vendas-amazon-india",
+    "entrypoint": "projetos/vendas-amazon-india/TrabalhoAmazonVendas.py",
+    "action": "Validar tratamento de nulos, cancelamentos e unidades monetárias; salvar resultados reproduzíveis.",
+    "dependencies": [
+      "pandas",
+      "matplotlib",
+      "seaborn",
+      "scikit-learn"
+    ],
+    "sourceRepository": "https://github.com/Inocentrax/Amazon-Vendas-India"
+  },
+  {
+    "title": "Extinção animal — busca de espécies",
+    "originalTitle": "Animais-Extintos",
+    "status": "Estudo",
+    "classification": "Projeto integrado de repositório",
+    "path": "projetos/extincao-animal",
+    "entrypoint": "projetos/extincao-animal/index.html",
+    "action": "Revisar nomes, referências e estado de conservação; melhorar acessibilidade e pesquisa com acentos.",
+    "dependencies": [],
+    "sourceRepository": "https://github.com/Inocentrax/Animais-Extintos"
   }
 ]
